@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning diploma in computer science 
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me ...mail me to this gmail id ( haashimmuham7@gmail.com )
+- 📫 How to reach me ...mail me to this gmail id ( haashimmuhammad7@gmail.com )
 - 
 
 <!---
