@@ -35,8 +35,8 @@
 💻 **Full Stack Developer** specializing in Web & Robotics  
 🌟 **15+ Certifications** | **10+ Projects** | **2+ Years Experience**
 
-### 🔥 **What I Do**
-\`\`\`javascript
+  <pre>
+    <code>
 const muhammad = {
     code: ["HTML", "CSS", "JavaScript", "PHP", "C++"],
     technologies: {
@@ -47,8 +47,8 @@ const muhammad = {
     currentFocus: "Building scalable web applications",
     funFact: "I turn coffee into code! ☕"
 };
-\`\`\`
-
+    </code>
+  </pre>
 </td>
 <td width="40%">
 
