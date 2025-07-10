@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7F00FF&center=true&vCenter=true&width=700&lines=🎓+Academic+Topper+%7C+10.0+CGPA;💻+Full+Stack+Web+Developer;🤖+Robotics+%26+IoT+Expert;🚀+Building+the+Future+with+Code" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7F00FF&center=true&vCenter=true&width=700&lines=🎓+Academic+Topper+%7C+10.0+CGPA;💻+Front+End+Web+Developer;🤖+Robotics+%26+IoT+;🚀+Building+the+Future+with+Code" alt="Typing Animation" />
 </div>
 
 <br>
@@ -15,7 +15,7 @@
   <a href="mailto:haashimmuhammad7@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6B6B" alt="Email"/>
   </a>
-  <a href="http://haashim.surge.sh">
+  <a href="https://haashim.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-4ECDC4?style=for-the-badge&logo=About.me&logoColor=white&labelColor=4ECDC4" alt="Portfolio"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=HAFIZ-HAASHIM&label=Profile%20Views&color=7F00FF&style=for-the-badge" alt="Profile Views" />
