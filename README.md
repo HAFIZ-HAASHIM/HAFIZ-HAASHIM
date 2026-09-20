@@ -1,116 +1,256 @@
-<img src="https://raw.githubusercontent.com/HAFIZ-HAASHIM/HAFIZ-HAASHIM/main/assets/hero.svg" alt="Muhammad Haashim: building at the intersection of AI, software and real-world problems" width="100%" />
-
-<p align="left">
-  <a href="https://github.com/HAFIZ-HAASHIM"><kbd>&nbsp;GITHUB&nbsp;→&nbsp;</kbd></a>&nbsp;
-  <a href="https://www.linkedin.com/in/muhammad-haashim-49051828b"><kbd>&nbsp;LINKEDIN&nbsp;→&nbsp;</kbd></a>&nbsp;
-  <a href="https://codalix.in"><kbd>&nbsp;CODALIX&nbsp;→&nbsp;</kbd></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HAFIZ-HAASHIM/HAFIZ-HAASHIM/main/assets/hero.svg" alt="Muhammad Haashim — AI/ML, full-stack builder and student founder" width="100%" />
 </p>
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/HAFIZ-HAASHIM/HAFIZ-HAASHIM/main/assets/build.svg" alt="01 What I build: AI products, full-stack systems, experiments, and products" width="100%" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/HAFIZ-HAASHIM/HAFIZ-HAASHIM/main/assets/proof.svg" alt="02 Proof of work: Hacksummit 2025 winner, East India Blockchain Summit 2.0 third place, Medithon 4.0 top 10 finalist, Google Student Ambassador 2026, Academic Topper, Google Solution Challenge, Google Agentic AI Day" width="100%" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/HAFIZ-HAASHIM/HAFIZ-HAASHIM/main/assets/sec-03.svg" alt="03 Selected work" width="100%" />
-
-<a href="https://github.com/HAFIZ-HAASHIM/GraamSehat"><img src="https://raw.githubusercontent.com/HAFIZ-HAASHIM/HAFIZ-HAASHIM/main/assets/project-graamsehat.svg" alt="GraamSehat: rural digital healthcare suite" width="100%" /></a>
-
-<p>
-  <img src="https://raw.githubusercontent.com/HAFIZ-HAASHIM/GraamSehat/master/Artifacts/IMG_7979.png" alt="GraamSehat app screenshot" height="300" />
-  <img src="https://raw.githubusercontent.com/HAFIZ-HAASHIM/GraamSehat/master/Artifacts/IMG_7980.png" alt="GraamSehat app screenshot" height="300" />
+<p align="center">
+  <a href="https://github.com/HAFIZ-HAASHIM">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-haashim-49051828b">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://codalix.in">Codalix</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:haashimmuhammad7@gmail.com">Email</a>
 </p>
 
-<a href="https://github.com/HAFIZ-HAASHIM/GraamSehat"><kbd>&nbsp;REPOSITORY&nbsp;→&nbsp;</kbd></a>&nbsp;
-<a href="https://graam-sehat.vercel.app"><kbd>&nbsp;LIVE DEMO&nbsp;→&nbsp;</kbd></a>
+<p align="center">
+  <sub>AI / ML · FULL-STACK · PRODUCT BUILDING · HACKATHONS</sub>
+</p>
 
-<br/><br/>
+<br />
 
-<a href="https://github.com/HAFIZ-HAASHIM/thermoshift"><img src="https://raw.githubusercontent.com/HAFIZ-HAASHIM/HAFIZ-HAASHIM/main/assets/project-thermoshift.svg" alt="ThermoShift: heat-aware workforce scheduling" width="100%" /></a>
+<table width="100%">
+<tr>
+<td width="62%" valign="top">
 
-<a href="https://github.com/HAFIZ-HAASHIM/thermoshift"><kbd>&nbsp;REPOSITORY&nbsp;→&nbsp;</kbd></a>&nbsp;
-<a href="https://thermoshift.vercel.app"><kbd>&nbsp;LIVE DEMO&nbsp;→&nbsp;</kbd></a>
+## 01 / Who I Am
 
-<br/><br/>
+I'm **Muhammad Haashim** — a second-year **B.E. Artificial Intelligence & Machine Learning** student at **St Joseph Engineering College**, building software around real-world problems.
 
-<a href="https://github.com/HAFIZ-HAASHIM/HarvestIQ"><img src="https://raw.githubusercontent.com/HAFIZ-HAASHIM/HAFIZ-HAASHIM/main/assets/project-harvestiq.svg" alt="HarvestIQ: AI crop-selling advisor for farmers" width="100%" /></a>
+I work across **AI/ML, full-stack development, product prototyping and hardware**, and I enjoy taking an idea from a rough problem statement to something people can actually use.
 
-<a href="https://github.com/HAFIZ-HAASHIM/HarvestIQ"><kbd>&nbsp;REPOSITORY&nbsp;→&nbsp;</kbd></a>
+Currently building my engineering depth through projects, hackathons, experimentation and **Codalix**, my student-founded technology agency.
 
-<br/>
+</td>
+<td width="38%" valign="top">
 
-<sub><code>ALSO SHIPPED</code>&nbsp; <a href="https://rezolvia.in/">Rezolvia</a> (dynamic college website, PHP + MySQL) · <a href="https://github.com/HAFIZ-HAASHIM/clubMate">ClubMate</a> · Line Follower and Maze Solver robots (Arduino)</sub>
+### NOW
 
-<br/><br/>
+`01` AI / ML
 
-<img src="https://raw.githubusercontent.com/HAFIZ-HAASHIM/HAFIZ-HAASHIM/main/assets/sec-04.svg" alt="04 Stack" width="100%" />
+Deepening fundamentals and building practical AI applications.
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <code>LANGUAGES</code><br/><br/>
-      <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,php&theme=dark" alt="JavaScript, TypeScript, Python, C++, PHP" />
-    </td>
-    <td valign="top" width="33%">
-      <code>FRONTEND</code><br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css&theme=dark" alt="React, Next.js, Vite, HTML, CSS" />
-    </td>
-    <td valign="top" width="33%">
-      <code>BACKEND &amp; DATA</code><br/><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mysql,supabase&theme=dark" alt="Node.js, Express, FastAPI, MySQL, Supabase" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <code>AI / CLOUD</code><br/><br/>
-      <img src="https://skillicons.dev/icons?i=gcp,firebase&theme=dark" alt="Google Cloud, Firebase" /><br/>
-      <sub>Vertex AI · Roboflow · Speech-to-Text · AI APIs</sub>
-    </td>
-    <td valign="top">
-      <code>TOOLS &amp; DEPLOY</code><br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify&theme=dark" alt="Git, GitHub, VS Code, Vercel, Netlify" />
-    </td>
-    <td valign="top">
-      <code>HARDWARE</code><br/><br/>
-      <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" /><br/>
-      <sub>Embedded systems · IoT · Robotics</sub>
-    </td>
-  </tr>
+`02` ENGINEERING
+
+Sharper backend architecture and production-quality full-stack systems.
+
+`03` SHIPPING
+
+Turning ideas into deployed, demoable products.
+
+`04` CODALIX
+
+Growing a student-led technology agency.
+
+</td>
+</tr>
 </table>
 
-<br/>
+<br />
 
-<img src="https://raw.githubusercontent.com/HAFIZ-HAASHIM/HAFIZ-HAASHIM/main/assets/now.svg" alt="05 Now: AI/ML, engineering, building, Codalix" width="100%" />
+<table width="100%">
+<tr>
+<td align="center" width="25%"><b>AI / ML</b><br/><sub>Building with AI</sub></td>
+<td align="center" width="25%"><b>FULL-STACK</b><br/><sub>Product engineering</sub></td>
+<td align="center" width="25%"><b>BUILDER</b><br/><sub>Hackathons & prototypes</sub></td>
+<td align="center" width="25%"><b>FOUNDER</b><br/><sub>Codalix</sub></td>
+</tr>
+</table>
 
-<br/>
+<br />
 
-<img src="https://raw.githubusercontent.com/HAFIZ-HAASHIM/HAFIZ-HAASHIM/main/assets/sec-06.svg" alt="06 Activity" width="100%" />
+## 02 / Selected Work
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=HAFIZ-HAASHIM&show_icons=true&count_private=true&border_color=1A2230&bg_color=0B0F16&title_color=22D3EE&icon_color=8B5CF6&text_color=C9D1D9&border_radius=12" alt="GitHub stats for HAFIZ-HAASHIM" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAFIZ-HAASHIM&layout=compact&langs_count=6&border_color=1A2230&bg_color=0B0F16&title_color=22D3EE&text_color=C9D1D9&border_radius=12" alt="Most used languages" width="49%" />
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### ◈ GraamSehat
+**Offline-first rural healthcare system**
+
+Five connected apps built around one synced backend for villagers, ASHA workers, administration and IVR workflows.
+
+`JavaScript` `Firestore` `Dexie` `PWA`
+
+**[Repository →](https://github.com/HAFIZ-HAASHIM/GraamSehat)** · **[Live →](https://graam-sehat.vercel.app)**
+
+</td>
+<td width="50%" valign="top">
+
+### ◇ ThermoShift
+**Heat-aware workforce scheduling**
+
+A decision-support system that generates safer work/rest schedules using weather, WBGT modelling and constraint optimisation.
+
+`Python` `OR-Tools` `FastAPI` `React` `TypeScript`
+
+**[Repository →](https://github.com/HAFIZ-HAASHIM/thermoshift)** · **[Live →](https://thermoshift.vercel.app)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◌ HarvestIQ
+**AI crop-selling advisor**
+
+A prototype that combines historical market prices, forecasting, weather risk and alerts to help farmers decide when to sell.
+
+`JavaScript` `Node.js` `Firebase` `Twilio`
+
+**[Repository →](https://github.com/HAFIZ-HAASHIM/HarvestIQ)**
+
+</td>
+<td width="50%" valign="top">
+
+### △ Rezolvia
+**Dynamic college web platform**
+
+A production-style web project built with PHP and MySQL, focused on practical college workflows and content management.
+
+`PHP` `MySQL` `HTML` `CSS`
+
+**[Live →](https://rezolvia.in/)**
+
+</td>
+</tr>
+</table>
+
+<p align="center"><sub>Also built: BlueGuard AI · Acadex · ClubMate · HemaScan · Project Kisan · Line Following Robot · Maze Solver Robot</sub></p>
+
+<br />
+
+## 03 / Proof of Work
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🏆 Hacksummit 2025**  
+Winner · PA College of Engineering
+
+**🥉 East India Blockchain Summit 2.0**  
+3rd Place · IIT Kharagpur
+
+**🏅 Medithon 4.0**  
+Top 10 Finalist
+
+</td>
+<td width="50%" valign="top">
+
+**🌐 Google Student Ambassador**  
+Class of 2026
+
+**🎓 Academic Topper**  
+Two consecutive years · Diploma in CSE
+
+**🚀 Google Programs**  
+Google Solution Challenge · Agentic AI Day
+
+</td>
+</tr>
+</table>
+
+<br />
+
+## 04 / Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,php&perline=5&theme=dark" alt="JavaScript, TypeScript, Python, C++, PHP" />
+</p>
+<p align="center"><sub>LANGUAGES</sub></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css&perline=5&theme=dark" alt="React, Next.js, Vite, HTML, CSS" />
+</p>
+<p align="center"><sub>FRONTEND</sub></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mysql,firebase&perline=5&theme=dark" alt="Node.js, Express, FastAPI, MySQL, Firebase" />
+</p>
+<p align="center"><sub>BACKEND / DATA</sub></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gcp,git,github,vscode,vercel,netlify,arduino&perline=7&theme=dark" alt="Google Cloud, Git, GitHub, VS Code, Vercel, Netlify, Arduino" />
+</p>
+<p align="center"><sub>CLOUD / TOOLS / HARDWARE</sub></p>
+
+<p align="center"><sub>Also working with Vertex AI · Roboflow · Firestore · AI APIs · Speech-to-Text · IoT · Robotics</sub></p>
+
+<br />
+
+## 05 / GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HAFIZ-HAASHIM&show_icons=true&hide_border=true&bg_color=0B0F16&title_color=22D3EE&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github&card_width=480" height="175" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAFIZ-HAASHIM&layout=compact&hide_border=true&bg_color=0B0F16&title_color=22D3EE&text_color=C9D1D9&langs_count=6" height="175" alt="Top languages" />
 </p>
 
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HAFIZ-HAASHIM&bg_color=0B0F16&color=8792A5&line=22D3EE&point=EEF2F8&area=true&area_color=22D3EE&hide_border=true&custom_title=Contribution%20activity" alt="Contribution activity graph" width="100%" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HAFIZ-HAASHIM&theme=transparent&hide_border=true&background=0B0F16&ring=22D3EE&fire=8B5CF6&currStreakLabel=EEF2F8&sideLabels=8792A5&dates=5B6678" alt="GitHub contribution streak" />
 </p>
 
-<br/>
-
-<a href="https://codalix.in"><img src="https://raw.githubusercontent.com/HAFIZ-HAASHIM/HAFIZ-HAASHIM/main/assets/codalix.svg" alt="Codalix: student-founded technology agency. Visit codalix.in" width="100%" /></a>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/HAFIZ-HAASHIM/HAFIZ-HAASHIM/main/assets/connect.svg" alt="08 Connect: build something useful." width="100%" />
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-haashim-49051828b"><kbd>&nbsp;LINKEDIN&nbsp;→&nbsp;</kbd></a>&nbsp;
-  <a href="https://github.com/HAFIZ-HAASHIM"><kbd>&nbsp;GITHUB&nbsp;→&nbsp;</kbd></a>&nbsp;
-  <a href="https://codalix.in"><kbd>&nbsp;CODALIX&nbsp;→&nbsp;</kbd></a>&nbsp;
-  <a href="https://haashim.vercel.app"><kbd>&nbsp;PORTFOLIO&nbsp;→&nbsp;</kbd></a>&nbsp;
-  <a href="mailto:haashimmuhammad7@gmail.com"><kbd>&nbsp;EMAIL&nbsp;→&nbsp;</kbd></a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HAFIZ-HAASHIM&bg_color=0B0F16&color=8792A5&line=22D3EE&point=EEF2F8&area=true&area_color=22D3EE&hide_border=true&custom_title=Contribution%20activity" width="100%" alt="Contribution activity graph" />
 </p>
+
+<br />
+
+<table width="100%">
+<tr>
+<td width="70%" valign="middle">
+
+## 06 / Codalix
+
+**Codalix** is my student-founded technology agency — building websites, digital products and practical technology solutions.
+
+<a href="https://codalix.in"><b>VISIT CODALIX →</b></a>
+
+</td>
+<td width="30%" align="center" valign="middle">
+
+```text
+< / >
+C O D A L I X
+```
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<table width="100%">
+<tr>
+<td align="center">
+
+# BUILD SOMETHING USEFUL.
+
+<sub>AI · SOFTWARE · PRODUCTS · REAL-WORLD PROBLEMS</sub>
+
+<br /><br />
+
+<a href="https://www.linkedin.com/in/muhammad-haashim-49051828b">LINKEDIN</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/HAFIZ-HAASHIM">GITHUB</a>
+&nbsp; · &nbsp;
+<a href="https://codalix.in">CODALIX</a>
+&nbsp; · &nbsp;
+<a href="mailto:haashimmuhammad7@gmail.com">EMAIL</a>
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<p align="center"><sub>© Muhammad Haashim · built with curiosity, shipped with code.</sub></p>
