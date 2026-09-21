@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#07090d"/>
+    <stop offset="0.55" stop-color="#0b1018"/>
+    <stop offset="1" stop-color="#101b2a"/>
+  </linearGradient>
+  <linearGradient id="ridge" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#070a0f"/>
+    <stop offset="0.5" stop-color="#101722"/>
+    <stop offset="1" stop-color="#070a0f"/>
+  </linearGradient>
+  <linearGradient id="path" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#8ea7bf"/>
+    <stop offset="1" stop-color="#31465b"/>
+  </linearGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+    <path d="M28 0H0V28" fill="none" stroke="#ffffff" stroke-opacity=".035"/>
+  </pattern>
+  <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+
+<rect width="1200" height="390" fill="url(#sky)"/>
+<rect width="1200" height="390" fill="url(#grid)"/>
+<ellipse cx="900" cy="95" rx="240" ry="110" fill="#6f8ba5" opacity=".06" filter="url(#blur)"/>
+
+<path d="M0 258 C120 208 190 245 292 218 C395 190 480 242 592 216 C710 188 798 242 915 212 C1030 182 1090 220 1200 188 L1200 390 L0 390 Z" fill="url(#ridge)"/>
+<path d="M0 302 C130 270 210 314 328 286 C450 257 520 315 648 281 C770 249 846 301 964 271 C1065 246 1130 274 1200 256 L1200 390 L0 390 Z" fill="#05070b"/>
+
+<path d="M560 390 C625 352 690 341 710 315 C728 291 700 279 660 268 C720 270 795 286 810 309 C826 333 770 353 738 390 Z" fill="url(#path)" opacity=".78"/>
+
+<g fill="#dbe5ee">
+  <text x="48" y="46" font-family="monospace" font-size="13" letter-spacing="3" opacity=".72">HAFIZ-HAASHIM / README.md</text>
+  <text x="1152" y="46" text-anchor="end" font-family="monospace" font-size="13" letter-spacing="2" opacity=".58">AI / ML · FULL-STACK · BUILDER</text>
+  <text x="600" y="157" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">Welcome to Haashim's GitHub</text>
+  <text x="600" y="188" text-anchor="middle" font-family="monospace" font-size="15" letter-spacing="1.5" opacity=".72">building useful software, AI products &amp; experiments</text>
+  <text x="48" y="360" font-family="monospace" font-size="12" letter-spacing="2" opacity=".62">B.E. AI &amp; ML · ST JOSEPH ENGINEERING COLLEGE</text>
+  <text x="1152" y="360" text-anchor="end" font-family="monospace" font-size="12" letter-spacing="2" opacity=".62">CODALIX · GSA 2026</text>
+</g>
+</svg>
