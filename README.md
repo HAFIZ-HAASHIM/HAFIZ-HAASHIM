@@ -1,87 +1,82 @@
 <div align="center">
 
-<img src="./image/HeroGit.jpg" alt="Muhammad Haashim — AI/ML, full-stack builder and founder" width="100%" />
+<img src="image/BanerGit.jpeg" width="100%" alt="Welcome to Haashim's GitHub"/>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/muhammad-haashim-49051828b">
-<img src="https://img.shields.io/badge/LINKEDIN-1B3148?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0B1B2A?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/HAFIZ-HAASHIM">
-<img src="https://img.shields.io/badge/GITHUB-111820?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-10161D?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://codalix.in">
-<img src="https://img.shields.io/badge/CODALIX-263C52?style=for-the-badge&logo=vercel&logoColor=white" alt="Codalix"/>
+<img src="https://img.shields.io/badge/Codalix-173044?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="mailto:haashimmuhammad7@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-31485E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-26394A?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 <br/>
 
-<h2 align="center"><img src="./image/icon-icons.svg" width="22" alt="icon"/> <i>Technologies</i></h2>
+<h2 align="center">
+  <img src="image/icon-icons.svg" width="22" valign="middle"/>
+  <i>Technologies</i>
+</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,php&theme=dark&perline=5" alt="Languages"/>
-  <br/>
-  <sub>LANGUAGES</sub>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css&theme=dark&perline=5" alt="Frontend"/>
-  <br/>
-  <sub>FRONTEND</sub>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,firebase,gcp&theme=dark&perline=5" alt="Backend and cloud"/>
-  <br/>
-  <sub>BACKEND · DATA · CLOUD</sub>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,arduino&theme=dark&perline=6" alt="Tools and hardware"/>
-  <br/>
-  <sub>TOOLS · DEPLOYMENT · HARDWARE</sub>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,php,react,nextjs,nodejs,express,mysql,firebase,gcp,git,github,vscode,vercel,netlify,arduino&perline=9&theme=dark" alt="Technology stack"/>
 </p>
 
 <p align="center">
   <sub>Vertex AI · Roboflow · Firestore · AI APIs · Speech-to-Text · IoT · Robotics</sub>
 </p>
 
-<br/>
+<hr/>
 
-<h2 align="center"><img src="./image/icon-icons.svg" width="22" alt="icon"/> <i>Statistics</i></h2>
+<h2 align="center">
+  <img src="image/icon-icons.svg" width="22" valign="middle"/>
+  <i>Statistics</i>
+</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HAFIZ-HAASHIM&show_icons=true&hide_border=true&bg_color=0B0F16&title_color=9FB9D1&icon_color=9FB9D1&text_color=D8E1E9&rank_icon=github&include_all_commits=true" width="48%" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAFIZ-HAASHIM&layout=compact&hide_border=true&bg_color=0B0F16&title_color=9FB9D1&text_color=D8E1E9&langs_count=6" width="48%" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HAFIZ-HAASHIM&show_icons=true&hide_border=true&bg_color=07111A&title_color=9BB5CA&icon_color=9BB5CA&text_color=D7E2EA&rank_icon=github" width="49%" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAFIZ-HAASHIM&layout=compact&hide_border=true&bg_color=07111A&title_color=9BB5CA&text_color=D7E2EA&langs_count=6" width="49%" alt="Most used languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HAFIZ-HAASHIM&bg_color=0B0F16&color=7E93A6&line=9FB9D1&point=EAF2F8&area=true&area_color=233A4E&hide_border=true&custom_title=Muhammad%20Haashim%27s%20Contribution%20Graph" width="96%" alt="Contribution graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HAFIZ-HAASHIM&theme=transparent&hide_border=true&background=07111A&ring=9BB5CA&fire=718BA0&currStreakLabel=DDE7EE&sideLabels=9AAEBD&dates=65798C" alt="GitHub streak"/>
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HAFIZ-HAASHIM&bg_color=07111A&color=8197AA&line=9BB5CA&point=EAF1F5&area=true&area_color=203C52&hide_border=true&custom_title=Contribution%20Graph" width="96%" alt="Contribution graph"/>
+</p>
 
-<h2 align="center"><img src="./image/icon-icons.svg" width="22" alt="icon"/> <i>About Me</i></h2>
+<hr/>
+
+<h2 align="center">
+  <img src="image/icon-icons.svg" width="22" valign="middle"/>
+  <i>About Me</i>
+</h2>
 
 <table>
 <tr>
-<td width="34%" align="center" valign="middle">
-  <img src="https://github.com/HAFIZ-HAASHIM.png?size=420" width="230" alt="Muhammad Haashim profile picture"/>
+<td width="35%" align="center" valign="middle">
+
+<img src="image/profile-3d.png" width="95%" alt="Profile portrait in a 3D-style card"/>
+
 </td>
-<td width="66%" valign="middle">
+<td width="65%" valign="middle">
 
-Hi, I'm <b>Muhammad Haashim</b> — a second-year <b>B.E. Artificial Intelligence & Machine Learning</b> student at <b>St Joseph Engineering College</b>.
+I'm **Muhammad Haashim**, a second-year **B.E. Artificial Intelligence & Machine Learning** student at **St Joseph Engineering College**.
 
-I enjoy taking real problems and turning them into working software: AI-powered applications, full-stack products, automation, and hardware experiments.
+I build practical software around real-world problems — AI-powered applications, full-stack products, rapid prototypes, robotics and experiments.
 
-Previously, I completed a <b>Diploma in Computer Science & Engineering</b> at Bearys Institute of Technology, where I was an <b>Academic Topper for two consecutive years</b>.
+Previously, I completed a **Diploma in Computer Science & Engineering** at Bearys Institute of Technology, where I was an **Academic Topper for two consecutive years**.
 
-Right now I'm focused on getting better at the fundamentals while continuing to <b>build, compete, ship and learn</b>.
+I'm also the founder of **Codalix**, a student-founded technology agency.
 
 </td>
 </tr>
@@ -89,47 +84,106 @@ Right now I'm focused on getting better at the fundamentals while continuing to 
 
 <br/>
 
-<h2 align="center"><img src="./image/icon-icons.svg" width="22" alt="icon"/> <i>Featured Work</i></h2>
+<div align="center">
+  <img src="image/orbit-cube.gif" width="190" alt="Animated 3D developer cube"/>
+</div>
+
+<hr/>
+
+<h2 align="center">
+  <img src="image/icon-icons.svg" width="22" valign="middle"/>
+  <i>What I Build</i>
+</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ◉ GraamSehat
+### ◉ AI Products
+
+AI-powered applications designed around actual problems.
+
+`Python` `AI APIs` `Vertex AI`
+
+</td>
+<td width="50%" valign="top">
+
+### ◇ Full-Stack Systems
+
+Web products, backends, APIs and data systems.
+
+`React` `Next.js` `Node.js`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### △ Experiments
+
+Robotics, IoT and rapid prototypes.
+
+`Arduino` `IoT` `Embedded`
+
+</td>
+<td width="50%" valign="top">
+
+### ◌ Products
+
+Ideas pushed beyond the prototype into usable products.
+
+`Build` `Deploy` `Iterate`
+
+</td>
+</tr>
+</table>
+
+<hr/>
+
+<h2 align="center">
+  <img src="image/icon-icons.svg" width="22" valign="middle"/>
+  <i>Featured Work</i>
+</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### GraamSehat
+
 **Offline-first rural healthcare suite**
 
-Five connected applications for villagers, ASHA workers and administrators, designed for low-connectivity environments.
+Five connected applications designed for villagers, ASHA workers and administration.
 
 `JavaScript` `Firebase` `Firestore` `PWA`
 
 <a href="https://github.com/HAFIZ-HAASHIM/GraamSehat">Repository →</a>
-&nbsp; · &nbsp;
-<a href="https://graam-sehat.vercel.app">Live Demo →</a>
+&nbsp; <a href="https://graam-sehat.vercel.app">Live Demo →</a>
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ ThermoShift
+### ThermoShift
+
 **Heat-aware workforce scheduling**
 
-A decision-support system combining weather-aware logic and constraint optimisation for safer outdoor schedules.
+Decision support for safer outdoor work/rest scheduling.
 
 `Python` `FastAPI` `React` `OR-Tools`
 
 <a href="https://github.com/HAFIZ-HAASHIM/thermoshift">Repository →</a>
-&nbsp; · &nbsp;
-<a href="https://thermoshift.vercel.app">Live Demo →</a>
+&nbsp; <a href="https://thermoshift.vercel.app">Live Demo →</a>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### ◌ HarvestIQ
+### HarvestIQ
+
 **AI crop-selling advisor**
 
-Market-price forecasting, weather insights and alerts designed to help farmers decide when to sell.
+Market forecasting, weather insights and alerts for farmers.
 
 `Node.js` `Firebase` `Twilio`
 
@@ -138,10 +192,11 @@ Market-price forecasting, weather insights and alerts designed to help farmers d
 </td>
 <td width="50%" valign="top">
 
-### △ Rezolvia
+### Rezolvia
+
 **Dynamic college platform**
 
-A practical college platform built with PHP and MySQL.
+Practical web platform built with PHP and MySQL.
 
 `PHP` `MySQL` `HTML` `CSS`
 
@@ -151,95 +206,75 @@ A practical college platform built with PHP and MySQL.
 </tr>
 </table>
 
+<hr/>
+
+<h2 align="center">
+  <img src="image/icon-icons.svg" width="22" valign="middle"/>
+  <i>Proof of Work</i>
+</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HACKSUMMIT%202025-WINNER-233B4D?style=for-the-badge" alt="Hacksummit 2025 winner"/>
+  <img src="https://img.shields.io/badge/EAST%20INDIA%20BLOCKCHAIN%20SUMMIT-3RD%20PLACE-2A4054?style=for-the-badge" alt="East India Blockchain Summit third place"/>
+  <img src="https://img.shields.io/badge/MEDITHON%204.0-TOP%2010-354E63?style=for-the-badge" alt="Medithon top 10"/>
+  <img src="https://img.shields.io/badge/GOOGLE%20STUDENT%20AMBASSADOR-2026-192D3D?style=for-the-badge" alt="Google Student Ambassador 2026"/>
+</p>
+
+<hr/>
+
+<h2 align="center">
+  <img src="image/icon-icons.svg" width="22" valign="middle"/>
+  <i>Currently</i>
+</h2>
+
+<p align="center">
+  <img src="image/focus.png" width="94%" alt="Current focus"/>
+</p>
+
+<hr/>
+
+<h2 align="center">
+  <img src="image/icon-icons.svg" width="22" valign="middle"/>
+  <i>More Things I've Built</i>
+</h2>
+
 <details>
-<summary><b>View more projects</b></summary>
+<summary><b>Open project list</b></summary>
 
 <br/>
 
-BlueGuard AI · Acadex · ClubMate · HemaScan · Project Kisan · WonderWing Travel & Tourism · Nxt Bus · School Lane · Line Following Robot · Maze Solver Robot
+**BlueGuard AI** · **Acadex** · **ClubMate** · **HemaScan** · **Project Kisan** · **WonderWing Travel & Tourism** · **Nxt Bus** · **School Lane** · **Line Following Robot** · **Maze Solver Robot**
 
 </details>
 
 <br/>
 
-<h2 align="center"><img src="./image/icon-icons.svg" width="22" alt="icon"/> <i>Achievements</i></h2>
+<hr/>
 
-<table>
-<tr>
-<td align="center" width="25%"><b>🏆</b><br/><b>Hacksummit 2025</b><br/><sub>Winner</sub></td>
-<td align="center" width="25%"><b>🥉</b><br/><b>East India Blockchain Summit 2.0</b><br/><sub>3rd Place · IIT Kharagpur</sub></td>
-<td align="center" width="25%"><b>🏅</b><br/><b>Medithon 4.0</b><br/><sub>Top 10 Finalist</sub></td>
-<td align="center" width="25%"><b>🌐</b><br/><b>Google Student Ambassador</b><br/><sub>Class of 2026</sub></td>
-</tr>
-</table>
-
-<br/>
-
-<h2 align="center"><img src="./image/icon-icons.svg" width="22" alt="icon"/> <i>Goals & Focus</i></h2>
-
-<table>
-<tr>
-<td width="62%" valign="middle">
-
-<b>01 · Deepen AI/ML</b><br/>
-<sub>Strengthen fundamentals while building practical AI applications.</sub>
-
-<br/><br/>
-
-<b>02 · Become a stronger engineer</b><br/>
-<sub>Improve backend architecture, systems thinking and production-quality development.</sub>
-
-<br/><br/>
-
-<b>03 · Build products</b><br/>
-<sub>Turn ideas into usable, deployed products instead of leaving them as prototypes.</sub>
-
-<br/><br/>
-
-<b>04 · Grow Codalix</b><br/>
-<sub>Build a serious student-founded technology agency.</sub>
-
-<br/><br/>
-
-<b>05 · Keep competing</b><br/>
-<sub>Learn through hackathons, ambitious projects and real constraints.</sub>
-
-</td>
-<td width="38%" align="center" valign="middle">
-  <img src="./image/focus.svg" width="100%" alt="Build learn ship"/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<h2 align="center">⚡ <i>Codalix</i></h2>
+<h2 align="center">
+  <img src="image/icon-icons.svg" width="22" valign="middle"/>
+  <i>Codalix</i>
+</h2>
 
 <p align="center">
   <b>Student-founded technology agency.</b><br/>
   Building websites, digital products and practical technology solutions.
-</p>
-
-<p align="center">
+  <br/><br/>
   <a href="https://codalix.in">
-    <img src="https://img.shields.io/badge/VISIT_CODALIX-111820?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Codalix"/>
+    <img src="https://img.shields.io/badge/VISIT%20CODALIX-142638?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Codalix"/>
   </a>
 </p>
 
 <br/>
 
-<hr/>
-
 <p align="center">
-  <b>BUILD SOMETHING USEFUL.</b>
-  <br/>
-  <sub>AI · SOFTWARE · PRODUCTS · REAL-WORLD PROBLEMS</sub>
+  <i>“Build useful things. Keep learning. Keep shipping.”</i>
   <br/><br/>
   <a href="https://github.com/HAFIZ-HAASHIM">GitHub</a>
-  &nbsp;·&nbsp;
+  &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/muhammad-haashim-49051828b">LinkedIn</a>
-  &nbsp;·&nbsp;
+  &nbsp;•&nbsp;
   <a href="https://codalix.in">Codalix</a>
-  &nbsp;·&nbsp;
+  &nbsp;•&nbsp;
   <a href="mailto:haashimmuhammad7@gmail.com">Email</a>
 </p>
