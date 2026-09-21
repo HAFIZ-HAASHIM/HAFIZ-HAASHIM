@@ -1,47 +1,50 @@
 <div align="center">
 
-<img src="image/BanerGit.jpeg" width="100%" alt="Haashim — GitHub profile banner"/>
+<!-- HERO -->
+<img src="image/BanerGit.jpeg" width="100%" alt="Haashim GitHub Banner"/>
 
-<br/>
+<br/><br/>
 
+<!-- SOCIALS -->
 <a href="https://github.com/HAFIZ-HAASHIM">
-  <img src="https://img.shields.io/badge/GitHub-0b1220?style=flat-square&logo=github&logoColor=ffffff" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GITHUB-0B1220?style=flat-square&logo=github&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/muhammad-haashim-49051828b">
-  <img src="https://img.shields.io/badge/LinkedIn-0b1220?style=flat-square&logo=linkedin&logoColor=8fb8ff" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0B1220?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://www.instagram.com/haashim.dev/">
-  <img src="https://img.shields.io/badge/Instagram-0b1220?style=flat-square&logo=instagram&logoColor=d9c2ff" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/INSTAGRAM-0B1220?style=flat-square&logo=instagram&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="image/3d-orbit.gif" width="340" alt="Animated 3D orbital illustration"/>
-
-</div>
-
-<br/>
-
+<!-- ABOUT -->
 <table align="center" width="92%">
 <tr>
-<td width="58%" valign="middle">
+<td width="62%" valign="middle">
 
-### `hello, world.`
+<h2 align="left">
+  <img src="image/icon-icons.svg" width="20"/>
+  <i>About Me</i>
+</h2>
 
-I'm **Haashim** — an AI & ML engineering student who likes building things that are actually useful.
+I'm <b>Haashim</b> — an Artificial Intelligence & Machine Learning engineering student and builder who enjoys turning real-world problems into useful technology.
 
-I work across **AI/ML, full-stack development, computer vision and product engineering**. My favorite projects sit at the intersection of software, data and real-world problems.
+I'm interested in <b>AI/ML, full-stack development, computer vision, robotics and product engineering</b>.
+
+I enjoy building projects, participating in hackathons and experimenting with new technologies.
 
 <br/>
 
-**Currently:** building • experimenting • competing • learning
+<b>Currently:</b> Building · Learning · Experimenting · Competing
 
 </td>
-<td width="42%" align="center" valign="middle">
 
-<img src="image/haashim-avatar.png" width="185" alt="Haashim cartoon avatar"/>
+<td width="38%" align="center">
+
+<img src="image/haashim-avatar.png" width="190" alt="Haashim Avatar"/>
 
 </td>
 </tr>
@@ -49,111 +52,238 @@ I work across **AI/ML, full-stack development, computer vision and product engin
 
 <br/>
 
-<h2 align="center"><img src="image/icon-icons.svg" width="19"/> <i>What I Build</i></h2>
+<!-- TECHNOLOGIES -->
+<h2 align="center">
+  <img src="image/icon-icons.svg" width="20"/>
+  <i>Technologies</i>
+</h2>
+
+<hr/>
+
+<br/>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PYTHON-0B1220?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-0B1220?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TYPESCRIPT-0B1220?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-0B1220?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-0B1220?style=flat-square&logo=openjdk&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/REACT-0B1220?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/NEXT.JS-0B1220?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/NODE.JS-0B1220?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPRESS-0B1220?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-0B1220?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MYSQL-0B1220?style=flat-square&logo=mysql&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/FIREBASE-0B1220?style=flat-square&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/GIT-0B1220?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-0B1220?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VERCEL-0B1220?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/FIGMA-0B1220?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/ROBOFLOW-0B1220?style=flat-square&logoColor=white"/>
+
+</p>
+
+<br/><br/>
+
+<!-- GITHUB STATISTICS -->
+<h2 align="center">
+  <img src="image/icon-icons.svg" width="20"/>
+  <i>Statistics</i>
+</h2>
+
+<hr/>
+
+<br/>
+
+<!-- REAL GITHUB STATS -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=HAFIZ-HAASHIM&show_icons=true&hide_border=true&bg_color=0B1220&title_color=FFFFFF&text_color=B7C4D6&icon_color=8FB8FF&rank_icon=github"
+    width="48%"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAFIZ-HAASHIM&layout=compact&hide_border=true&bg_color=0B1220&title_color=FFFFFF&text_color=B7C4D6&langs_count=8"
+    width="48%"
+  />
+</p>
+
+<br/>
+
+<!-- CONTRIBUTION GRAPH -->
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=HAFIZ-HAASHIM&bg_color=0B1220&color=B7C4D6&line=6F9FE8&point=FFFFFF&area=true&hide_border=true"
+    width="96%"
+    alt="GitHub Contribution Activity Graph"
+  />
+</p>
+
+<br/>
+
+<!-- STREAK GRAPH -->
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=HAFIZ-HAASHIM&theme=github-dark-blue&hide_border=true&background=0B1220&stroke=243247&ring=6F9FE8&fire=8FB8FF&currStreakLabel=B7C4D6&sideLabels=B7C4D6&dates=7E8A9A"
+    width="75%"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+<br/>
+
+<!-- CONTRIBUTION HEATMAP -->
+<h2 align="center">
+  <img src="image/icon-icons.svg" width="20"/>
+  <i>Contribution Graph</i>
+</h2>
+
+<hr/>
+
+<br/>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=HAFIZ-HAASHIM&bg_color=0B1220&color=8FB8FF&line=5B8CFF&point=FFFFFF&area=true&area_color=16243A&hide_border=true&custom_title=Haashim%27s%20GitHub%20Contributions"
+    width="96%"
+    alt="Haashim GitHub Contributions"
+  />
+</p>
+
+<br/><br/>
+
+<!-- 3D CONTRIBUTION -->
+<h2 align="center">
+  <img src="image/icon-icons.svg" width="20"/>
+  <i>3D Contribution View</i>
+</h2>
+
+<hr/>
+
+<br/>
+
+<p align="center">
+  <img
+    src="profile-3d-contrib/profile-night-view.svg"
+    width="94%"
+    alt="3D GitHub Contribution View"
+  />
+</p>
+
+<br/><br/>
+
+<!-- WHAT I BUILD -->
+<h2 align="center">
+  <img src="image/icon-icons.svg" width="20"/>
+  <i>What I Build</i>
+</h2>
+
+<hr/>
+
+<br/>
 
 <table align="center" width="92%">
 <tr>
+
 <td width="33%" align="center">
 
-**AI / ML**  
-Computer vision · intelligent systems · applied AI
+<b>AI / ML</b>
+
+<br/><br/>
+
+Computer Vision<br/>
+Machine Learning<br/>
+Intelligent Systems
 
 </td>
+
 <td width="33%" align="center">
 
-**FULL-STACK**  
-Web apps · APIs · databases · product systems
+<b>FULL-STACK</b>
+
+<br/><br/>
+
+Web Applications<br/>
+APIs & Databases<br/>
+Product Systems
 
 </td>
+
 <td width="33%" align="center">
 
-**EXPERIMENTS**  
-Hackathons · prototypes · robotics · new tech
+<b>EXPERIMENTS</b>
+
+<br/><br/>
+
+Hackathons<br/>
+Robotics<br/>
+New Technologies
 
 </td>
+
 </tr>
 </table>
 
-<br/>
+<br/><br/>
 
-<h2 align="center"><img src="image/icon-icons.svg" width="19"/> <i>Tech Stack</i></h2>
+<!-- PROJECT MINDSET -->
+<h2 align="center">
+  <img src="image/icon-icons.svg" width="20"/>
+  <i>Beyond Code</i>
+</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=8fb8ff"/>
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=f4d35e"/>
-  <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=6ea8ff"/>
-  <img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=d9d9d9"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-111827?style=flat-square&logo=c%2B%2B&logoColor=8fb8ff"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=79d8ff"/>
-  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=8ed081"/>
-  <img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/PHP-111827?style=flat-square&logo=php&logoColor=9aa7ff"/>
-  <img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=7db7d9"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Firebase-111827?style=flat-square&logo=firebase&logoColor=ffca5c"/>
-  <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=f27c62"/>
-  <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=e9a1ff"/>
-  <img src="https://img.shields.io/badge/Roboflow-111827?style=flat-square&logoColor=ffffff"/>
-</p>
+<hr/>
 
 <br/>
-
-<h2 align="center"><img src="image/icon-icons.svg" width="19"/> <i>GitHub Metrics</i></h2>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/HAFIZ-HAASHIM?label=followers&style=flat-square&color=6f8fb3&labelColor=0b1220"/>
-  <img src="https://img.shields.io/github/stars/HAFIZ-HAASHIM?affiliations=OWNER&style=flat-square&label=stars&color=6f8fb3&labelColor=0b1220"/>
-  <img src="https://img.shields.io/github/repos/HAFIZ-HAASHIM?style=flat-square&label=public%20repos&color=6f8fb3&labelColor=0b1220"/>
-</p>
-
-<p align="center">
-  <img src="profile/stats.svg" width="49%" alt="GitHub statistics"/>
-  <img src="profile/top-langs.svg" width="49%" alt="Top languages"/>
-</p>
-
-<br/>
-
-<h2 align="center"><img src="image/icon-icons.svg" width="19"/> <i>3D Contribution View</i></h2>
-
-<p align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" width="94%" alt="3D GitHub contribution view"/>
-</p>
-
-<br/>
-
-<h2 align="center"><img src="image/icon-icons.svg" width="19"/> <i>Beyond Code</i></h2>
 
 <table align="center" width="92%">
 <tr>
+
 <td width="50%" valign="top">
 
-**Hackathons & building**  
-I enjoy turning rough ideas into working prototypes, especially when there is a real constraint, deadline or competition involved.
+<b>Hackathons & Building</b>
+
+<br/><br/>
+
+I enjoy turning ideas into working prototypes, especially when there is a real problem, constraint or deadline involved.
 
 </td>
+
 <td width="50%" valign="top">
 
-**Learning & exploring**  
+<b>Learning & Exploring</b>
+
+<br/><br/>
+
 AI systems, product engineering, computer vision, robotics and whatever technology can make the next project more interesting.
 
 </td>
+
 </tr>
 </table>
 
-<br/>
+<br/><br/>
 
+<!-- FOOTER -->
 <p align="center">
   <sub>Always building. Always learning. Always shipping.</sub>
 </p>
 
+<br/>
+
 <p align="center">
-  <a href="https://github.com/HAFIZ-HAASHIM">github</a> ·
-  <a href="https://www.linkedin.com/in/muhammad-haashim-49051828b">linkedin</a> ·
-  <a href="https://www.instagram.com/haashim.dev/">instagram</a>
+  <a href="https://github.com/HAFIZ-HAASHIM">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-haashim-49051828b">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/haashim.dev/">Instagram</a>
 </p>
+
+</div>
