@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 420" role="img" aria-label="Abstract 3D developer avatar">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070d16"/><stop offset="1" stop-color="#0f1d2c"/></linearGradient>
+ <linearGradient id="f1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c7d8e8"/><stop offset="1" stop-color="#56718f"/></linearGradient>
+ <linearGradient id="f2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7e9db9"/><stop offset="1" stop-color="#22374e"/></linearGradient>
+ <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="20" stdDeviation="18" flood-color="#000" flood-opacity=".55"/></filter>
+</defs>
+<rect x="10" y="10" width="500" height="400" rx="28" fill="url(#bg)" stroke="#213349"/>
+<circle cx="260" cy="208" r="132" fill="none" stroke="#8aa5bf" stroke-opacity=".18" stroke-width="2"/>
+<circle cx="260" cy="208" r="162" fill="none" stroke="#8aa5bf" stroke-opacity=".08" stroke-width="1" stroke-dasharray="3 9"/>
+<g filter="url(#shadow)">
+  <path d="M260 78 L365 138 L365 260 L260 320 L155 260 L155 138 Z" fill="#0c1723" stroke="#6f8da9" stroke-width="3"/>
+  <path d="M260 78 L365 138 L260 198 L155 138 Z" fill="url(#f1)"/>
+  <path d="M155 138 L260 198 L260 320 L155 260 Z" fill="url(#f2)"/>
+  <path d="M260 198 L365 138 L365 260 L260 320 Z" fill="#17283c"/>
+  <path d="M211 170 L252 147 L294 170 L252 194 Z" fill="#0b1119" stroke="#d5e4f1" stroke-opacity=".7"/>
+  <path d="M229 179 L229 240 L276 240 L276 179" fill="#071019" stroke="#6f8da9" stroke-width="2"/>
+  <text x="252" y="217" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="22" fill="#d9e6f1">&lt;/&gt;</text>
+</g>
+<g fill="#b5c8da">
+ <circle cx="104" cy="118" r="4"/><circle cx="420" cy="102" r="4"/><circle cx="428" cy="310" r="4"/><circle cx="92" cy="306" r="4"/>
+</g>
+<g stroke="#6f8da9" stroke-opacity=".5"><path d="M104 118L176 158"/><path d="M420 102L355 140"/><path d="M428 310L360 267"/><path d="M92 306L160 266"/></g>
+<text x="36" y="374" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" fill="#8297ab" letter-spacing="2">BUILD / LEARN / SHIP</text>
+<text x="484" y="374" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" fill="#8297ab" letter-spacing="2">HAASHIM</text>
+</svg>
