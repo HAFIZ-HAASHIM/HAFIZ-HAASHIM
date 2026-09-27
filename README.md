@@ -109,94 +109,182 @@
 
 <br/>
 
-<!-- ==================== FEATURED PROJECTS ==================== -->
+<!-- ==================== FEATURED PROJECTS (MODERN CARD GRID) ==================== -->
 ### 🚀 Selected Engineering Projects
 
-<table width="100%" style="border-collapse: collapse; border: 1px solid #1E293B;">
-<thead>
-<tr style="background-color: #0B1220; border-bottom: 2px solid #1E293B;">
-  <th align="left" width="28%" style="padding: 10px 14px; color: #F8FAFC;">Project</th>
-  <th align="left" width="52%" style="padding: 10px 14px; color: #F8FAFC;">Description &amp; Impact</th>
-  <th align="center" width="20%" style="padding: 10px 14px; color: #F8FAFC;">Core Stack</th>
-</tr>
-</thead>
-<tbody>
+<table width="100%" style="border-collapse: separate; border-spacing: 12px; border: none; background: transparent;">
+<tr>
 
-<tr style="background-color: #080E1A; border-bottom: 1px solid #1E293B;">
-  <td style="padding: 12px 14px;">
-    <b><a href="https://github.com/HAFIZ-HAASHIM/project-kisan" style="color: #60A5FA; text-decoration: none;">🌾 Project-Kisan</a></b>
-  </td>
-  <td style="padding: 12px 14px; color: #94A3B8; font-size: 13.5px;">
-    Autonomous multi-agent system delivering context-aware agricultural intelligence and crop decision guidance. Built for <b>Google Agentic AI Day</b>.
-  </td>
-  <td align="center" style="padding: 12px 14px; color: #CBD5E1; font-size: 12px;">
-    <code>TypeScript</code> · <code>Agentic AI</code>
-  </td>
-</tr>
+<!-- CARD 1: Project Kisan -->
+<td width="50%" valign="top" style="background-color: #0B1220; border: 1px solid #1E293B; border-radius: 12px; padding: 20px;">
+  <table width="100%" style="border: none; border-collapse: collapse; margin-bottom: 8px;">
+    <tr>
+      <td align="left" style="border: none; padding: 0;">
+        <span style="font-size: 16px; font-weight: 700; color: #F8FAFC;">🌾 Project-Kisan</span>
+      </td>
+      <td align="right" style="border: none; padding: 0;">
+        <img src="https://img.shields.io/badge/Google_Agentic_AI-1E293B?style=flat-square&color=2563EB" alt="Google Agentic AI" />
+      </td>
+    </tr>
+  </table>
+  <p style="color: #94A3B8; font-size: 13.5px; line-height: 1.5; margin: 0 0 14px 0;">
+    Autonomous multi-agent architecture delivering context-aware agricultural decision intelligence and crop risk advisory. Built for <b>Google Agentic AI Day</b>.
+  </p>
+  <div style="margin-bottom: 14px;">
+    <img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Agentic_AI-0F172A?style=flat-square&logo=openai&logoColor=38BDF8" alt="Agentic AI" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Vertex_AI-0F172A?style=flat-square&logo=googlecloud&logoColor=4285F4" alt="Vertex AI" />
+  </div>
+  <a href="https://github.com/HAFIZ-HAASHIM/project-kisan" style="color: #38BDF8; font-size: 13px; font-weight: 600; text-decoration: none;">
+    Explore Repository &rarr;
+  </a>
+</td>
 
-<tr style="background-color: #0B1220; border-bottom: 1px solid #1E293B;">
-  <td style="padding: 12px 14px;">
-    <b><a href="https://github.com/HAFIZ-HAASHIM" style="color: #60A5FA; text-decoration: none;">🩸 HemaScan</a></b>
-  </td>
-  <td style="padding: 12px 14px; color: #94A3B8; font-size: 13.5px;">
-    AI-powered hematology &amp; medical computer vision diagnostics engine analyzing blood cell microscopic imagery for rapid anomaly detection.
-  </td>
-  <td align="center" style="padding: 12px 14px; color: #CBD5E1; font-size: 12px;">
-    <code>Python</code> · <code>Computer Vision</code>
-  </td>
-</tr>
+<!-- CARD 2: HemaScan -->
+<td width="50%" valign="top" style="background-color: #0B1220; border: 1px solid #1E293B; border-radius: 12px; padding: 20px;">
+  <table width="100%" style="border: none; border-collapse: collapse; margin-bottom: 8px;">
+    <tr>
+      <td align="left" style="border: none; padding: 0;">
+        <span style="font-size: 16px; font-weight: 700; color: #F8FAFC;">🩸 HemaScan</span>
+      </td>
+      <td align="right" style="border: none; padding: 0;">
+        <img src="https://img.shields.io/badge/Computer_Vision-1E293B?style=flat-square&color=7C3AED" alt="Computer Vision" />
+      </td>
+    </tr>
+  </table>
+  <p style="color: #94A3B8; font-size: 13.5px; line-height: 1.5; margin: 0 0 14px 0;">
+    AI-powered hematology diagnostics engine analyzing microscopic blood smear imagery to detect cellular anomalies and accelerate clinical screening.
+  </p>
+  <div style="margin-bottom: 14px;">
+    <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/OpenCV-0F172A?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="OpenCV" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Deep_Learning-0F172A?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="Deep Learning" />
+  </div>
+  <a href="https://github.com/HAFIZ-HAASHIM" style="color: #38BDF8; font-size: 13px; font-weight: 600; text-decoration: none;">
+    Explore Project &rarr;
+  </a>
+</td>
 
-<tr style="background-color: #080E1A; border-bottom: 1px solid #1E293B;">
-  <td style="padding: 12px 14px;">
-    <b><a href="https://github.com/HAFIZ-HAASHIM/blueGuard-AI" style="color: #60A5FA; text-decoration: none;">🔵 BlueGuard AI</a></b>
-  </td>
-  <td style="padding: 12px 14px; color: #94A3B8; font-size: 13.5px;">
-    Digital threat monitoring platform delivering automated anomaly analysis and proactive security telemetry for modern web architectures.
-  </td>
-  <td align="center" style="padding: 12px 14px; color: #CBD5E1; font-size: 12px;">
-    <code>TypeScript</code> · <code>Cyber AI</code>
-  </td>
 </tr>
+<tr>
 
-<tr style="background-color: #0B1220; border-bottom: 1px solid #1E293B;">
-  <td style="padding: 12px 14px;">
-    <b><a href="https://github.com/HAFIZ-HAASHIM" style="color: #60A5FA; text-decoration: none;">🎓 Acadex</a></b>
-    <br/>
-    <sub style="color: #64748B;">⚡ Evolved from School Lane</sub>
-  </td>
-  <td style="padding: 12px 14px; color: #94A3B8; font-size: 13.5px;">
-    Modernized, full-modular education ERP and academic workflow resolution platform streamlining institutional administration, student tracking, and operations.
-  </td>
-  <td align="center" style="padding: 12px 14px; color: #CBD5E1; font-size: 12px;">
-    <code>React</code> · <code>Node.js</code> · <code>Vite</code>
-  </td>
+<!-- CARD 3: BlueGuard AI -->
+<td width="50%" valign="top" style="background-color: #0B1220; border: 1px solid #1E293B; border-radius: 12px; padding: 20px;">
+  <table width="100%" style="border: none; border-collapse: collapse; margin-bottom: 8px;">
+    <tr>
+      <td align="left" style="border: none; padding: 0;">
+        <span style="font-size: 16px; font-weight: 700; color: #F8FAFC;">🔵 BlueGuard AI</span>
+      </td>
+      <td align="right" style="border: none; padding: 0;">
+        <img src="https://img.shields.io/badge/Cyber_AI-1E293B?style=flat-square&color=0284C7" alt="Cyber AI" />
+      </td>
+    </tr>
+  </table>
+  <p style="color: #94A3B8; font-size: 13.5px; line-height: 1.5; margin: 0 0 14px 0;">
+    Digital threat monitoring platform delivering automated anomaly analysis, risk scoring, and proactive security telemetry for modern web architectures.
+  </p>
+  <div style="margin-bottom: 14px;">
+    <img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind" />
+  </div>
+  <a href="https://github.com/HAFIZ-HAASHIM/blueGuard-AI" style="color: #38BDF8; font-size: 13px; font-weight: 600; text-decoration: none;">
+    Explore Repository &rarr;
+  </a>
+</td>
+
+<!-- CARD 4: Acadex -->
+<td width="50%" valign="top" style="background-color: #0B1220; border: 1px solid #1E293B; border-radius: 12px; padding: 20px;">
+  <table width="100%" style="border: none; border-collapse: collapse; margin-bottom: 8px;">
+    <tr>
+      <td align="left" style="border: none; padding: 0;">
+        <span style="font-size: 16px; font-weight: 700; color: #F8FAFC;">🎓 Acadex</span>
+        <br/><span style="color: #38BDF8; font-size: 11px;">⚡ Evolution of School Lane</span>
+      </td>
+      <td align="right" style="border: none; padding: 0;">
+        <img src="https://img.shields.io/badge/EdTech_ERP-1E293B?style=flat-square&color=059669" alt="EdTech ERP" />
+      </td>
+    </tr>
+  </table>
+  <p style="color: #94A3B8; font-size: 13.5px; line-height: 1.5; margin: 0 0 14px 0;">
+    Advanced modular institutional ERP &amp; academic resolution platform streamlining student tracking, faculty operations, assignments, and announcements.
+  </p>
+  <div style="margin-bottom: 14px;">
+    <img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Vite-0F172A?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+  </div>
+  <a href="https://github.com/HAFIZ-HAASHIM/School-lane" style="color: #38BDF8; font-size: 13px; font-weight: 600; text-decoration: none;">
+    Explore Repository &rarr;
+  </a>
+</td>
+
 </tr>
+<tr>
 
-<tr style="background-color: #080E1A; border-bottom: 1px solid #1E293B;">
-  <td style="padding: 12px 14px;">
-    <b><a href="https://github.com/HAFIZ-HAASHIM/GraamSehat" style="color: #60A5FA; text-decoration: none;">💖 GraamSehat</a></b>
-  </td>
-  <td style="padding: 12px 14px; color: #94A3B8; font-size: 13.5px;">
-    Decentralized rural digital healthcare &amp; telemedicine ecosystem engineered to bridge healthcare delivery gaps in underserved communities.
-  </td>
-  <td align="center" style="padding: 12px 14px; color: #CBD5E1; font-size: 12px;">
-    <code>JavaScript</code> · <code>HealthTech</code>
-  </td>
+<!-- CARD 5: GraamSehat -->
+<td width="50%" valign="top" style="background-color: #0B1220; border: 1px solid #1E293B; border-radius: 12px; padding: 20px;">
+  <table width="100%" style="border: none; border-collapse: collapse; margin-bottom: 8px;">
+    <tr>
+      <td align="left" style="border: none; padding: 0;">
+        <span style="font-size: 16px; font-weight: 700; color: #F8FAFC;">💖 GraamSehat</span>
+      </td>
+      <td align="right" style="border: none; padding: 0;">
+        <img src="https://img.shields.io/badge/HealthTech-1E293B?style=flat-square&color=E11D48" alt="HealthTech" />
+      </td>
+    </tr>
+  </table>
+  <p style="color: #94A3B8; font-size: 13.5px; line-height: 1.5; margin: 0 0 14px 0;">
+    Decentralized rural digital healthcare &amp; telemedicine ecosystem designed to connect primary care seekers in underserved areas with medical networks.
+  </p>
+  <div style="margin-bottom: 14px;">
+    <img src="https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Full--Stack-0F172A?style=flat-square&color=38BDF8" alt="Full-Stack" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Telehealth-0F172A?style=flat-square&color=10B981" alt="Telehealth" />
+  </div>
+  <a href="https://github.com/HAFIZ-HAASHIM/GraamSehat" style="color: #38BDF8; font-size: 13px; font-weight: 600; text-decoration: none;">
+    Explore Repository &rarr;
+  </a>
+</td>
+
+<!-- CARD 6: Autonomous Robotics -->
+<td width="50%" valign="top" style="background-color: #0B1220; border: 1px solid #1E293B; border-radius: 12px; padding: 20px;">
+  <table width="100%" style="border: none; border-collapse: collapse; margin-bottom: 8px;">
+    <tr>
+      <td align="left" style="border: none; padding: 0;">
+        <span style="font-size: 16px; font-weight: 700; color: #F8FAFC;">🤖 Autonomous Robotics</span>
+      </td>
+      <td align="right" style="border: none; padding: 0;">
+        <img src="https://img.shields.io/badge/Embedded_AI-1E293B?style=flat-square&color=D97706" alt="Embedded AI" />
+      </td>
+    </tr>
+  </table>
+  <p style="color: #94A3B8; font-size: 13.5px; line-height: 1.5; margin: 0 0 14px 0;">
+    Sensor-guided autonomous robotic vehicles engineered for real-time maze solving, PID line tracking, and dynamic trajectory adjustments.
+  </p>
+  <div style="margin-bottom: 14px;">
+    <img src="https://img.shields.io/badge/C%2B%2B-0F172A?style=flat-square&logo=c%2B%2B&logoColor=00599C" alt="C++" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Arduino-0F172A?style=flat-square&logo=arduino&logoColor=00979D" alt="Arduino" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/PID_Control-0F172A?style=flat-square&color=38BDF8" alt="PID Control" />
+  </div>
+  <a href="https://github.com/HAFIZ-HAASHIM" style="color: #38BDF8; font-size: 13px; font-weight: 600; text-decoration: none;">
+    Explore Project &rarr;
+  </a>
+</td>
+
 </tr>
-
-<tr style="background-color: #0B1220;">
-  <td style="padding: 12px 14px;">
-    <b><a href="https://github.com/HAFIZ-HAASHIM" style="color: #60A5FA; text-decoration: none;">🤖 Autonomous Robotics</a></b>
-  </td>
-  <td style="padding: 12px 14px; color: #94A3B8; font-size: 13.5px;">
-    Engineered sensor-driven autonomous line-following and maze-solving robotic vehicles with embedded control algorithms and real-time feedback loops.
-  </td>
-  <td align="center" style="padding: 12px 14px; color: #CBD5E1; font-size: 12px;">
-    <code>C++</code> · <code>Robotics</code> · <code>Arduino</code>
-  </td>
-</tr>
-
-</tbody>
 </table>
 
 <br/>
