@@ -27,18 +27,18 @@
 <!-- ==================== ABOUT & PROFILE SHOWCASE ==================== -->
 <table align="center" width="100%" style="border-collapse: separate; border-spacing: 0; border: 1px solid #1B2E4B; border-radius: 12px; background-color: #0B1322;">
 <tr>
-<td width="36%" align="center" valign="middle" style="padding: 24px 20px; border: none;">
-  <img src="image/haashim-avatar.png" width="215" alt="Haashim Avatar" style="border-radius: 16px; border: 2px solid #1B2E4B; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
+<td width="38%" align="center" valign="middle" style="padding: 24px 20px; border: none;">
+  <img src="image/haashim-avatar.png" width="240" alt="Haashim Avatar" style="border-radius: 16px; border: 2px solid #1B2E4B; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
 </td>
 
-<td width="64%" valign="middle" style="padding: 24px 28px 24px 10px; text-align: left; border: none;">
+<td width="62%" valign="middle" style="padding: 24px 28px 24px 10px; text-align: left; border: none;">
 
 <h3 style="margin-top: 0; margin-bottom: 8px; color: #F1F5F9; font-size: 22px;">
   Hi, I'm Haashim 👋
 </h3>
 
 <p style="color: #94A3B8; font-size: 14.5px; line-height: 1.6; margin: 0 0 14px 0;">
-  <b>AI & ML Engineering student</b> (2nd Year B.E. at <i>St Joseph Engineering College</i> · previously CS Diploma at <i>Bearys Institute of Technology</i>). Technical builder with an <b>entrepreneurial mindset</b>, combining artificial intelligence, computer vision, full-stack development, and product engineering to turn real problems into scalable software products.
+  <b>AI & ML Engineering student</b> (2nd Year B.E. at <i>St Joseph Engineering College</i> · previously CS Diploma at <i>Bearys Institute of Technology</i>). <b>3× Academic Topper</b> and technical builder with an <b>entrepreneurial mindset</b>, combining artificial intelligence, computer vision, full-stack development, and product engineering to turn real problems into scalable software products.
 </p>
 
 <p style="color: #CBD5E1; font-size: 13.5px; line-height: 1.6; margin: 0 0 16px 0;">
@@ -48,6 +48,8 @@
 
 <div>
   <img src="https://img.shields.io/badge/Identity-Tech_Builder_%2B_Entrepreneurial_Mindset-0E192D?style=flat-square&color=2563EB" alt="Identity" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Academics-3X_Topper-0E192D?style=flat-square&color=F59E0B" alt="3X Academic Topper" />
   &nbsp;
   <img src="https://img.shields.io/badge/Hackathons-3X_Winner-0E192D?style=flat-square&color=38BDF8" alt="Hackathons" />
   &nbsp;
@@ -399,13 +401,13 @@
     Excellence &amp; Student Community
   </div>
   <p style="color: #94A3B8; font-size: 13px; line-height: 1.6; margin: 0 0 14px 0;">
-    🎓 <b>2× Consecutive Academic Topper Award</b><br/>
+    🎓 <b>3× Academic Topper Award</b><br/>
     👨‍💻 <b>President</b> — D-CODEX Technical Club<br/>
     🛠️ Organized hands-on coding bootcamps<br/>
     🏛️ St Joseph Engg College · B.E. AI &amp; ML
   </p>
   <div>
-    <img src="https://img.shields.io/badge/2X_Topper-0E192D?style=flat-square&color=F59E0B" alt="2X Topper" />
+    <img src="https://img.shields.io/badge/3X_Academic_Topper-0E192D?style=flat-square&color=F59E0B" alt="3X Academic Topper" />
     &nbsp;
     <img src="https://img.shields.io/badge/D--CODEX_President-0E192D?style=flat-square&color=38BDF8" alt="D-CODEX" />
   </div>
@@ -519,13 +521,24 @@
 <tr>
 
 <td width="50%" align="center" valign="top" style="border: none; padding: 0;">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=HAFIZ-HAASHIM&show_icons=true&hide_border=true&bg_color=0B1322&title_color=F1F5F9&text_color=94A3B8&icon_color=38BDF8&rank_icon=github" width="100%" alt="Haashim's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=HAFIZ-HAASHIM&show_icons=true&hide_border=true&bg_color=0B1322&title_color=F1F5F9&text_color=94A3B8&icon_color=38BDF8&rank_icon=github&count_private=true&include_all_commits=true" width="100%" alt="Haashim's GitHub Stats" />
 </td>
 
 <td width="50%" align="center" valign="top" style="border: none; padding: 0;">
   <img src="https://streak-stats.demolab.com/?user=HAFIZ-HAASHIM&theme=tokyonight&hide_border=true&background=0B1322&stroke=1B2E4B&ring=38BDF8&fire=60A5FA&currStreakLabel=94A3B8&sideLabels=94A3B8&dates=64748B" width="100%" alt="GitHub Streak Stats" />
 </td>
 
+</tr>
+</table>
+
+<br/>
+
+<!-- GITHUB CONTRIBUTION ACTIVITY GRAPH -->
+<table width="100%" style="border-collapse: separate; border-spacing: 12px 0; border: none;">
+<tr>
+<td width="100%" align="center" valign="top" style="border: none; padding: 0;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HAFIZ-HAASHIM&bg_color=0B1322&color=38BDF8&line=2563EB&point=F1F5F9&area=true&hide_border=true" width="100%" alt="Haashim's Contribution Activity Graph" />
+</td>
 </tr>
 </table>
 
