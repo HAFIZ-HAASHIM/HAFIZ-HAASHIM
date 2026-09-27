@@ -516,7 +516,7 @@
 
 <div align="center">
 
-<!-- TOP ROW STATS & STREAK BOXES -->
+<!-- ROW 1: CORE STATS & STREAK -->
 <table width="100%" style="border-collapse: separate; border-spacing: 12px 0; border: none;">
 <tr>
 
@@ -533,25 +533,28 @@
 
 <br/>
 
-<!-- GITHUB CONTRIBUTION ACTIVITY GRAPH -->
-<table width="100%" style="border-collapse: separate; border-spacing: 12px 0; border: none;">
-<tr>
-<td width="100%" align="center" valign="top" style="border: none; padding: 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HAFIZ-HAASHIM&bg_color=0B1322&color=38BDF8&line=2563EB&point=F1F5F9&area=true&hide_border=true" width="100%" alt="Haashim's Contribution Activity Graph" />
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- TOP LANGUAGES BREAKDOWN -->
+<!-- ROW 2: TOP LANGUAGES & STATS BREAKDOWN -->
 <table width="100%" style="border-collapse: separate; border-spacing: 12px 0; border: none;">
 <tr>
 <td width="50%" align="center" valign="top" style="border: none; padding: 0;">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HAFIZ-HAASHIM&layout=compact&hide_border=true&bg_color=0B1322&title_color=F1F5F9&text_color=94A3B8&langs_count=6" width="100%" alt="Top Languages" />
 </td>
 <td width="50%" align="center" valign="top" style="border: none; padding: 0;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HAFIZ-HAASHIM&theme=github_dark" width="100%" alt="Most Committed Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HAFIZ-HAASHIM&theme=github_dark" width="100%" alt="GitHub Overall Stats Summary" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ROW 3: PRODUCTIVITY & ACTIVITY DETAILS -->
+<table width="100%" style="border-collapse: separate; border-spacing: 12px 0; border: none;">
+<tr>
+<td width="50%" align="center" valign="top" style="border: none; padding: 0;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HAFIZ-HAASHIM&theme=github_dark" width="100%" alt="Productive Time Breakdown" />
+</td>
+<td width="50%" align="center" valign="top" style="border: none; padding: 0;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HAFIZ-HAASHIM&theme=github_dark" width="100%" alt="Profile Activity Details" />
 </td>
 </tr>
 </table>
