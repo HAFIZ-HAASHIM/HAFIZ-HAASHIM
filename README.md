@@ -327,14 +327,21 @@
   <i>Engineering with curiosity · Building with intent · Shipping with speed</i>
 </p>
 
-<p style="font-size: 13px;">
-  <a href="https://github.com/HAFIZ-HAASHIM" style="color: #94A3B8; text-decoration: none;">GitHub</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/muhammad-haashim-49051828b" style="color: #94A3B8; text-decoration: none;">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.instagram.com/haashim.dev/" style="color: #94A3B8; text-decoration: none;">Instagram</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:haashimmuhammad7@gmail.com" style="color: #94A3B8; text-decoration: none;">Email</a>
-</p>
+<!-- ==================== SOCIAL / CONTACT BAR ==================== -->
+<a href="https://github.com/HAFIZ-HAASHIM">
+  <img src="https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/muhammad-haashim-49051828b">
+  <img src="https://img.shields.io/badge/LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/haashim.dev/">
+  <img src="https://img.shields.io/badge/INSTAGRAM-0B1220?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
+</a>
+&nbsp;
+<a href="mailto:haashimmuhammad7@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-0B1220?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+</a>
 
 </div>
