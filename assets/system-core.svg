@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="hudBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070D18"/>
+      <stop offset="50%" stop-color="#0B1324"/>
+      <stop offset="100%" stop-color="#050912"/>
+    </linearGradient>
+
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0E192D"/>
+      <stop offset="100%" stop-color="#0A1220"/>
+    </linearGradient>
+
+    <linearGradient id="cyanGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#818CF8"/>
+    </linearGradient>
+
+    <!-- Grid Pattern -->
+    <pattern id="gridPattern" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#1E293B" stroke-width="0.75" opacity="0.45"/>
+    </pattern>
+
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <style>
+      @keyframes scanline {
+        0% { transform: translateY(0); opacity: 0.1; }
+        50% { opacity: 0.4; }
+        100% { transform: translateY(280px); opacity: 0.1; }
+      }
+      @keyframes pulseRing {
+        0% { r: 35; opacity: 0.8; }
+        50% { r: 52; opacity: 0.15; }
+        100% { r: 35; opacity: 0.8; }
+      }
+      @keyframes rotateOrb {
+        from { transform: rotate(0deg); transform-origin: 860px 140px; }
+        to { transform: rotate(360deg); transform-origin: 860px 140px; }
+      }
+      @keyframes blinkDot {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.3; }
+      }
+      .hud-title { font-family: 'SF Pro Display', -apple-system, 'Segoe UI', Roboto, sans-serif; font-weight: 700; }
+      .hud-mono { font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace; }
+      .scan-bar { animation: scanline 4s linear infinite; }
+      .pulse-circle { animation: pulseRing 3s ease-in-out infinite; }
+      .orbit-group { animation: rotateOrb 12s linear infinite; }
+      .blinking { animation: blinkDot 1.8s infinite; }
+    </style>
+  </defs>
+
+  <!-- Base Panel with Cybernetic Corners -->
+  <rect x="2" y="2" width="996" height="276" rx="12" fill="url(#hudBg)" stroke="#1E293B" stroke-width="1.5"/>
+  <rect x="2" y="2" width="996" height="276" rx="12" fill="url(#gridPattern)"/>
+
+  <!-- Scanning Line -->
+  <line x1="10" y1="0" x2="990" y2="0" stroke="#38BDF8" stroke-width="1.5" class="scan-bar" opacity="0.3"/>
+
+  <!-- Top Header Bar -->
+  <path d="M 24 24 L 280 24 L 294 38 L 976 38" fill="none" stroke="#1E293B" stroke-width="1.5"/>
+  <circle cx="36" cy="24" r="4.5" fill="#38BDF8" class="blinking"/>
+  <text x="50" y="28" fill="#38BDF8" font-size="11" class="hud-mono" letter-spacing="2">AUTONOMOUS TELEMETRY CORE // HAASHIM.SYS</text>
+  <text x="965" y="28" text-anchor="end" fill="#64748B" font-size="10" class="hud-mono" letter-spacing="1">STATUS: OPERATIONAL</text>
+
+  <!-- Left Column: Core Focus & Modules -->
+  <!-- Module 1: AI & Vision -->
+  <g transform="translate(32, 54)">
+    <rect width="210" height="96" rx="8" fill="url(#cardGrad)" stroke="#1E293B" stroke-width="1"/>
+    <text x="14" y="24" fill="#94A3B8" font-size="9.5" class="hud-mono" letter-spacing="1.5">MODULE 01 // NEURAL</text>
+    <text x="14" y="46" fill="#F8FAFC" font-size="14" class="hud-title">Computer Vision &amp; ML</text>
+    <text x="14" y="66" fill="#64748B" font-size="11" class="hud-mono">CrowdSafe · Density AI</text>
+    <rect x="14" y="78" width="182" height="4" rx="2" fill="#0F172A"/>
+    <rect x="14" y="78" width="158" height="4" rx="2" fill="url(#cyanGlow)"/>
+  </g>
+
+  <!-- Module 2: Agentic Systems -->
+  <g transform="translate(254, 54)">
+    <rect width="210" height="96" rx="8" fill="url(#cardGrad)" stroke="#1E293B" stroke-width="1"/>
+    <text x="14" y="24" fill="#94A3B8" font-size="9.5" class="hud-mono" letter-spacing="1.5">MODULE 02 // AGENTS</text>
+    <text x="14" y="46" fill="#F8FAFC" font-size="14" class="hud-title">Autonomous Agents</text>
+    <text x="14" y="66" fill="#64748B" font-size="11" class="hud-mono">Project-Kisan · Decision</text>
+    <rect x="14" y="78" width="182" height="4" rx="2" fill="#0F172A"/>
+    <rect x="14" y="78" width="170" height="4" rx="2" fill="url(#cyanGlow)"/>
+  </g>
+
+  <!-- Module 3: Full-Stack Product -->
+  <g transform="translate(476, 54)">
+    <rect width="210" height="96" rx="8" fill="url(#cardGrad)" stroke="#1E293B" stroke-width="1"/>
+    <text x="14" y="24" fill="#94A3B8" font-size="9.5" class="hud-mono" letter-spacing="1.5">MODULE 03 // FULLSTACK</text>
+    <text x="14" y="46" fill="#F8FAFC" font-size="14" class="hud-title">Next.js &amp; Architecture</text>
+    <text x="14" y="66" fill="#64748B" font-size="11" class="hud-mono">HarvestIQ · ThermoShift</text>
+    <rect x="14" y="78" width="182" height="4" rx="2" fill="#0F172A"/>
+    <rect x="14" y="78" width="164" height="4" rx="2" fill="url(#cyanGlow)"/>
+  </g>
+
+  <!-- Bottom Data Stream Console -->
+  <g transform="translate(32, 164)">
+    <rect width="654" height="92" rx="8" fill="#080D18" stroke="#1E293B" stroke-width="1"/>
+    <text x="16" y="24" fill="#38BDF8" font-size="10" class="hud-mono" letter-spacing="1.5">EXECUTION LOG &amp; REAL-TIME METRICS</text>
+    
+    <text x="16" y="48" fill="#E2E8F0" font-size="12" class="hud-mono">
+      <tspan fill="#38BDF8">&gt;</tspan> AGENT_STATE: <tspan fill="#4ADE80">OPTIMIZED</tspan> · CGPA: <tspan fill="#F8FAFC">9.89 (Topper)</tspan> · HACKATHONS: <tspan fill="#F8FAFC">ACTIVE</tspan>
+    </text>
+    <text x="16" y="68" fill="#94A3B8" font-size="11" class="hud-mono">
+      <tspan fill="#38BDF8">&gt;</tspan> PIPELINE: AgriTech (HarvestIQ) · SafeCrowd Vision · ThermoShift Telemetry
+    </text>
+  </g>
+
+  <!-- Right Holographic Orbit Radar -->
+  <g transform="translate(705, 54)">
+    <rect width="260" height="202" rx="8" fill="#080E1B" stroke="#1E293B" stroke-width="1"/>
+    
+    <!-- Coordinate / Header -->
+    <text x="16" y="24" fill="#64748B" font-size="9.5" class="hud-mono" letter-spacing="1">RADAR // MATRIX</text>
+    <text x="244" y="24" text-anchor="end" fill="#38BDF8" font-size="9" class="hud-mono">AI_CORE</text>
+
+    <!-- Radar Rings -->
+    <circle cx="130" cy="112" r="58" fill="none" stroke="#1E293B" stroke-width="1" stroke-dasharray="3 4"/>
+    <circle cx="130" cy="112" r="42" fill="none" stroke="#253954" stroke-width="1"/>
+    <circle cx="130" cy="112" r="22" fill="none" stroke="#38BDF8" stroke-width="1.2" opacity="0.6"/>
+    
+    <!-- Crosshairs -->
+    <line x1="62" y1="112" x2="198" y2="112" stroke="#1E293B" stroke-width="0.75"/>
+    <line x1="130" y1="44" x2="130" y2="180" stroke="#1E293B" stroke-width="0.75"/>
+
+    <!-- Orbiting Target Nodes -->
+    <g class="orbit-group">
+      <circle cx="860" cy="98" r="4" fill="#38BDF8" filter="url(#glow)"/>
+      <circle cx="895" cy="165" r="3" fill="#818CF8"/>
+      <circle cx="820" cy="150" r="3.5" fill="#34D399"/>
+    </g>
+
+    <!-- Center Node -->
+    <circle cx="130" cy="112" r="5" fill="#38BDF8" class="blinking" filter="url(#glow)"/>
+    <text x="130" y="186" text-anchor="middle" fill="#94A3B8" font-size="10" class="hud-mono" letter-spacing="1">ORBITAL SYNAPSE</text>
+  </g>
+
+  <!-- Accent Border Decals -->
+  <path d="M 2 16 L 2 2 L 16 2" fill="none" stroke="#38BDF8" stroke-width="2"/>
+  <path d="M 998 16 L 998 2 L 984 2" fill="none" stroke="#38BDF8" stroke-width="2"/>
+  <path d="M 2 264 L 2 278 L 16 278" fill="none" stroke="#38BDF8" stroke-width="2"/>
+  <path d="M 998 264 L 998 278 L 984 278" fill="none" stroke="#38BDF8" stroke-width="2"/>
+</svg>

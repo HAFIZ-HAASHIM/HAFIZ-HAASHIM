@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- HERO BANNER -->
+<!-- ==================== HERO BANNER ==================== -->
 <img src="image/BanerGit.jpeg" width="100%" alt="Welcome to Haashim's GitHub" style="border-radius: 8px;" />
 
 <br/><br/>
 
-<!-- QUICK NAV & SOCIALS -->
+<!-- ==================== SOCIAL / CONTACT BAR ==================== -->
 <a href="https://github.com/HAFIZ-HAASHIM">
   <img src="https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
@@ -18,45 +18,54 @@
   <img src="https://img.shields.io/badge/INSTAGRAM-0B1220?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
 </a>
 &nbsp;
-<a href="mailto:hafizhaashim786@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-0B1220?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+<a href="mailto:haashimmuhammad7@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-0B1220?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
 </a>
 
 <br/><br/>
 
-<!-- PROFILE HIGHLIGHT CARD -->
+<!-- ==================== ABOUT & PROFILE SHOWCASE ==================== -->
 <table align="center" width="100%" style="border-collapse: separate; border-spacing: 0; border: 1px solid #1E293B; border-radius: 12px; background-color: #0B1220;">
 <tr>
 <td width="65%" valign="middle" style="padding: 24px 28px; text-align: left; border: none;">
 
-<h3 style="margin-top: 0; margin-bottom: 8px; color: #FFFFFF; font-size: 20px;">
+<h3 style="margin-top: 0; margin-bottom: 8px; color: #FFFFFF; font-size: 21px;">
   Hi, I'm Haashim 👋
 </h3>
 
 <p style="color: #94A3B8; font-size: 14.5px; line-height: 1.6; margin: 0 0 14px 0;">
-  <b>AI & ML Engineering student</b> and software builder passionate about engineering intelligent systems, robust full-stack architectures, and computer vision applications that solve real-world problems.
+  <b>AI & ML Engineering student</b> and software builder passionate about developing intelligent systems, robust full-stack architectures, and computer vision applications that solve real-world problems.
 </p>
 
 <p style="color: #CBD5E1; font-size: 13.5px; line-height: 1.6; margin: 0 0 16px 0;">
-  🔭 <b>Focus:</b> Agentic AI · Machine Learning · Computer Vision · Product Engineering<br/>
-  ⚡ <b>Approach:</b> First-principles thinking, clean architecture, and rapid prototyping
+  🔭 <b>Core Focus:</b> Agentic AI · Computer Vision · Machine Learning · Product Engineering<br/>
+  ⚡ <b>Engineering Philosophy:</b> First-principles thinking, clean architecture, and rapid shipping
 </p>
 
-<div style="margin-top: 6px;">
+<div>
   <img src="https://img.shields.io/badge/Status-Building_%26_Shipping-0F172A?style=flat-square&color=2563EB" alt="Status" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-AI_%2F_ML_%26_Full--Stack-0F172A?style=flat-square&color=38BDF8" alt="Focus" />
+  <img src="https://img.shields.io/badge/Domain-AI_%2F_ML_%26_Full--Stack-0F172A?style=flat-square&color=38BDF8" alt="Domain" />
 </div>
 
 </td>
 
 <td width="35%" align="center" valign="middle" style="padding: 20px; border: none;">
-  <img src="image/haashim-avatar.png" width="170" alt="Haashim Avatar" style="border-radius: 50%; border: 2px solid #1E293B;" />
+  <img src="image/haashim-avatar.png" width="165" alt="Haashim Avatar" style="border-radius: 50%; border: 2px solid #1E293B;" />
 </td>
 </tr>
 </table>
 
 </div>
+
+<br/>
+
+<!-- ==================== FUTURISTIC TELEMETRY HUD ==================== -->
+### ⚡ Core Architecture & Telemetry
+
+<p align="center">
+  <img src="assets/system-core.svg" width="100%" alt="System Architecture & Telemetry Core" style="border-radius: 10px;" />
+</p>
 
 <br/>
 
@@ -67,7 +76,7 @@
 <thead>
 <tr style="background-color: #0B1220; border-bottom: 2px solid #1E293B;">
   <th align="left" width="28%" style="padding: 10px 14px; color: #F8FAFC;">Project</th>
-  <th align="left" width="52%" style="padding: 10px 14px; color: #F8FAFC;">Description & Impact</th>
+  <th align="left" width="52%" style="padding: 10px 14px; color: #F8FAFC;">Description &amp; Impact</th>
   <th align="center" width="20%" style="padding: 10px 14px; color: #F8FAFC;">Core Stack</th>
 </tr>
 </thead>
@@ -161,7 +170,7 @@
     🎓 Academic Excellence
   </div>
   <p style="color: #94A3B8; font-size: 13px; line-height: 1.5; margin: 0;">
-    Earned a <b>9.89 CGPA</b> in Computer Science & Engineering at Bearys Institute of Technology with recognition as <b>Academic Topper</b>.
+    Earned a <b>9.89 CGPA</b> in Computer Science &amp; Engineering at Bearys Institute of Technology with recognition as <b>Academic Topper</b>.
   </p>
 </td>
 
@@ -215,7 +224,7 @@
 
 <tr style="border-bottom: 1px solid #1E293B;">
   <td width="26%" style="padding: 12px 16px; color: #F8FAFC; font-weight: 600;">
-    AI / ML & Vision
+    AI / ML &amp; Vision
   </td>
   <td width="74%" style="padding: 12px 16px;">
     <img src="https://img.shields.io/badge/Computer_Vision-0B1220?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="OpenCV"/>
@@ -232,7 +241,7 @@
 
 <tr style="border-bottom: 1px solid #1E293B;">
   <td width="26%" style="padding: 12px 16px; color: #F8FAFC; font-weight: 600;">
-    Full-Stack & Backend
+    Full-Stack &amp; Backend
   </td>
   <td width="74%" style="padding: 12px 16px;">
     <img src="https://img.shields.io/badge/React-0B1220?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
@@ -249,7 +258,7 @@
 
 <tr>
   <td width="26%" style="padding: 12px 16px; color: #F8FAFC; font-weight: 600;">
-    Databases, Cloud & Tools
+    Databases, Cloud &amp; Tools
   </td>
   <td width="74%" style="padding: 12px 16px;">
     <img src="https://img.shields.io/badge/Firebase-0B1220?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase"/>
@@ -271,37 +280,39 @@
 
 <br/>
 
-<!-- ==================== GITHUB ANALYTICS ==================== -->
+<!-- ==================== GITHUB ANALYTICS & STREAK ==================== -->
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
 
-<!-- TOP ROW STATS -->
-<table width="100%" style="border-collapse: separate; border-spacing: 8px 0; border: none;">
+<!-- TOP ROW STATS & STREAK BOXES -->
+<table width="100%" style="border-collapse: separate; border-spacing: 12px 0; border: none;">
 <tr>
-<td width="50%" align="center" style="border: none; padding: 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=HAFIZ-HAASHIM&show_icons=true&hide_border=true&bg_color=0B1220&title_color=FFFFFF&text_color=94A3B8&icon_color=60A5FA&rank_icon=github" width="100%" alt="Haashim's GitHub Stats" />
+
+<td width="50%" align="center" valign="top" style="border: none; padding: 0;">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=HAFIZ-HAASHIM&show_icons=true&hide_border=true&bg_color=0B1220&title_color=FFFFFF&text_color=94A3B8&icon_color=38BDF8&rank_icon=github" width="100%" alt="Haashim's GitHub Stats" />
 </td>
-<td width="50%" align="center" style="border: none; padding: 0;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAFIZ-HAASHIM&layout=compact&hide_border=true&bg_color=0B1220&title_color=FFFFFF&text_color=94A3B8&langs_count=6" width="100%" alt="Top Languages" />
+
+<td width="50%" align="center" valign="top" style="border: none; padding: 0;">
+  <img src="https://streak-stats.demolab.com/?user=HAFIZ-HAASHIM&theme=tokyonight&hide_border=true&background=0B1220&stroke=1E293B&ring=38BDF8&fire=60A5FA&currStreakLabel=94A3B8&sideLabels=94A3B8&dates=64748B" width="100%" alt="GitHub Streak Stats" />
 </td>
+
 </tr>
 </table>
 
 <br/>
 
-<!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HAFIZ-HAASHIM&bg_color=0B1220&color=94A3B8&line=3B82F6&point=60A5FA&area=true&area_color=080E1A&hide_border=true&custom_title=Haashim%27s%20Contribution%20Trajectory" width="100%" alt="Haashim's Contribution Graph" />
-
-<br/><br/>
-
-<!-- STREAK STATS -->
-<img src="https://streak-stats.demolab.com?user=HAFIZ-HAASHIM&theme=github-dark-blue&hide_border=true&background=0B1220&stroke=1E293B&ring=3B82F6&fire=60A5FA&currStreakLabel=94A3B8&sideLabels=94A3B8&dates=64748B" width="80%" alt="GitHub Streak" />
-
-<br/><br/>
-
-<!-- 3D CONTRIBUTION NIGHT VIEW -->
-<img src="profile-3d-contrib/profile-night-view.svg" width="96%" alt="3D GitHub Contribution View" />
+<!-- TOP LANGUAGES BREAKDOWN -->
+<table width="100%" style="border-collapse: separate; border-spacing: 12px 0; border: none;">
+<tr>
+<td width="50%" align="center" valign="top" style="border: none; padding: 0;">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HAFIZ-HAASHIM&layout=compact&hide_border=true&bg_color=0B1220&title_color=FFFFFF&text_color=94A3B8&langs_count=6" width="100%" alt="Top Languages" />
+</td>
+<td width="50%" align="center" valign="top" style="border: none; padding: 0;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HAFIZ-HAASHIM&theme=github_dark" width="100%" alt="Most Committed Language" />
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -323,7 +334,7 @@
   &nbsp;·&nbsp;
   <a href="https://www.instagram.com/haashim.dev/" style="color: #94A3B8; text-decoration: none;">Instagram</a>
   &nbsp;·&nbsp;
-  <a href="mailto:hafizhaashim786@gmail.com" style="color: #94A3B8; text-decoration: none;">Email</a>
+  <a href="mailto:haashimmuhammad7@gmail.com" style="color: #94A3B8; text-decoration: none;">Email</a>
 </p>
 
 </div>
