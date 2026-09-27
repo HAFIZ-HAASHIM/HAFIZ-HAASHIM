@@ -511,6 +511,31 @@
 
 <br/>
 
+<!-- ==================== GITHUB ACHIEVEMENTS SHOWCASE ==================== -->
+### 🏆 Official GitHub Achievements
+
+<table width="100%" style="border-collapse: separate; border-spacing: 0; border: 1px solid #1B2E4B; border-radius: 12px; background-color: #0B1322; padding: 18px 24px;">
+<tr>
+<td width="50%" align="center" valign="middle" style="border: none; padding: 12px;">
+  <a href="https://github.com/HAFIZ-HAASHIM?tab=achievements">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="90" alt="Quickdraw Achievement" />
+  </a>
+  <div style="color: #F1F5F9; font-weight: 700; font-size: 14px; margin-top: 8px;">Quickdraw</div>
+  <div style="color: #60A5FA; font-size: 12px;">Resolved task in &lt; 5 mins</div>
+</td>
+
+<td width="50%" align="center" valign="middle" style="border: none; padding: 12px;">
+  <a href="https://github.com/HAFIZ-HAASHIM?tab=achievements">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="90" alt="YOLO Achievement" />
+  </a>
+  <div style="color: #F1F5F9; font-weight: 700; font-size: 14px; margin-top: 8px;">YOLO</div>
+  <div style="color: #A855F7; font-size: 12px;">Merged PR without review</div>
+</td>
+</tr>
+</table>
+
+<br/>
+
 <!-- ==================== GITHUB ANALYTICS & STREAK ==================== -->
 ### 📊 GitHub Activity & Analytics
 
