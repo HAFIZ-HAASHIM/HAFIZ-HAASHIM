@@ -27,9 +27,13 @@
 <!-- ==================== ABOUT & PROFILE SHOWCASE ==================== -->
 <table align="center" width="100%" style="border-collapse: separate; border-spacing: 0; border: 1px solid #1B2E4B; border-radius: 12px; background-color: #0B1322;">
 <tr>
-<td width="65%" valign="middle" style="padding: 24px 28px; text-align: left; border: none;">
+<td width="36%" align="center" valign="middle" style="padding: 24px 20px; border: none;">
+  <img src="image/haashim-avatar.png" width="215" alt="Haashim Avatar" style="border-radius: 16px; border: 2px solid #1B2E4B; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
+</td>
 
-<h3 style="margin-top: 0; margin-bottom: 8px; color: #F1F5F9; font-size: 21px;">
+<td width="64%" valign="middle" style="padding: 24px 28px 24px 10px; text-align: left; border: none;">
+
+<h3 style="margin-top: 0; margin-bottom: 8px; color: #F1F5F9; font-size: 22px;">
   Hi, I'm Haashim 👋
 </h3>
 
@@ -50,10 +54,6 @@
   <img src="https://img.shields.io/badge/Ambassador-Google_GSA_2026-0E192D?style=flat-square&color=34D399" alt="Google Ambassador" />
 </div>
 
-</td>
-
-<td width="35%" align="center" valign="middle" style="padding: 20px; border: none;">
-  <img src="image/haashim-avatar.png" width="165" alt="Haashim Avatar" style="border-radius: 50%; border: 2px solid #1B2E4B;" />
 </td>
 </tr>
 </table>
