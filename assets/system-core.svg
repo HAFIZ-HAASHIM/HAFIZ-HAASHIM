@@ -33,11 +33,6 @@
         50% { opacity: 0.4; }
         100% { transform: translateY(280px); opacity: 0.1; }
       }
-      @keyframes pulseRing {
-        0% { r: 35; opacity: 0.8; }
-        50% { r: 52; opacity: 0.15; }
-        100% { r: 35; opacity: 0.8; }
-      }
       @keyframes rotateOrb {
         from { transform: rotate(0deg); transform-origin: 860px 140px; }
         to { transform: rotate(360deg); transform-origin: 860px 140px; }
@@ -49,7 +44,6 @@
       .hud-title { font-family: 'SF Pro Display', -apple-system, 'Segoe UI', Roboto, sans-serif; font-weight: 700; }
       .hud-mono { font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace; }
       .scan-bar { animation: scanline 4s linear infinite; }
-      .pulse-circle { animation: pulseRing 3s ease-in-out infinite; }
       .orbit-group { animation: rotateOrb 12s linear infinite; }
       .blinking { animation: blinkDot 1.8s infinite; }
     </style>
@@ -65,14 +59,14 @@
   <!-- Top Header Bar -->
   <path d="M 24 24 L 280 24 L 294 38 L 976 38" fill="none" stroke="#1E293B" stroke-width="1.5"/>
   <circle cx="36" cy="24" r="4.5" fill="#38BDF8" class="blinking"/>
-  <text x="50" y="28" fill="#38BDF8" font-size="11" class="hud-mono" letter-spacing="2">AUTONOMOUS TELEMETRY CORE // HAASHIM.SYS</text>
-  <text x="965" y="28" text-anchor="end" fill="#64748B" font-size="10" class="hud-mono" letter-spacing="1">STATUS: OPERATIONAL</text>
+  <text x="50" y="28" fill="#38BDF8" font-size="11" class="hud-mono" letter-spacing="2">TELEMETRY &amp; VENTURE CORE // HAASHIM.SYS</text>
+  <text x="965" y="28" text-anchor="end" fill="#64748B" font-size="10" class="hud-mono" letter-spacing="1">STATUS: ACTIVE_BUILDER</text>
 
   <!-- Left Column: Core Focus & Modules -->
   <!-- Module 1: AI & Vision -->
   <g transform="translate(32, 54)">
     <rect width="210" height="96" rx="8" fill="url(#cardGrad)" stroke="#1E293B" stroke-width="1"/>
-    <text x="14" y="24" fill="#94A3B8" font-size="9.5" class="hud-mono" letter-spacing="1.5">MODULE 01 // VISION</text>
+    <text x="14" y="24" fill="#94A3B8" font-size="9.5" class="hud-mono" letter-spacing="1.5">MODULE 01 // AI &amp; VISION</text>
     <text x="14" y="46" fill="#F8FAFC" font-size="14" class="hud-title">Computer Vision &amp; ML</text>
     <text x="14" y="66" fill="#64748B" font-size="11" class="hud-mono">HemaScan · Roboflow</text>
     <rect x="14" y="78" width="182" height="4" rx="2" fill="#0F172A"/>
@@ -89,12 +83,12 @@
     <rect x="14" y="78" width="174" height="4" rx="2" fill="url(#cyanGlow)"/>
   </g>
 
-  <!-- Module 3: Full-Stack Product -->
+  <!-- Module 3: Product Engineering -->
   <g transform="translate(476, 54)">
     <rect width="210" height="96" rx="8" fill="url(#cardGrad)" stroke="#1E293B" stroke-width="1"/>
-    <text x="14" y="24" fill="#94A3B8" font-size="9.5" class="hud-mono" letter-spacing="1.5">MODULE 03 // FULLSTACK</text>
-    <text x="14" y="46" fill="#F8FAFC" font-size="14" class="hud-title">Next.js &amp; Architecture</text>
-    <text x="14" y="66" fill="#64748B" font-size="11" class="hud-mono">BlueGuard · GraamSehat</text>
+    <text x="14" y="24" fill="#94A3B8" font-size="9.5" class="hud-mono" letter-spacing="1.5">MODULE 03 // VENTURES</text>
+    <text x="14" y="46" fill="#F8FAFC" font-size="14" class="hud-title">Product &amp; Startups</text>
+    <text x="14" y="66" fill="#64748B" font-size="11" class="hud-mono">Acadex · BlueGuard AI</text>
     <rect x="14" y="78" width="182" height="4" rx="2" fill="#0F172A"/>
     <rect x="14" y="78" width="162" height="4" rx="2" fill="url(#cyanGlow)"/>
   </g>
@@ -102,13 +96,13 @@
   <!-- Bottom Data Stream Console -->
   <g transform="translate(32, 164)">
     <rect width="654" height="92" rx="8" fill="#080D18" stroke="#1E293B" stroke-width="1"/>
-    <text x="16" y="24" fill="#38BDF8" font-size="10" class="hud-mono" letter-spacing="1.5">CORE TELEMETRY // CREDENTIALS &amp; RECOGNITIONS</text>
+    <text x="16" y="24" fill="#38BDF8" font-size="10" class="hud-mono" letter-spacing="1.5">BUILD LOG &amp; PROFILE TELEMETRY</text>
     
     <text x="16" y="48" fill="#E2E8F0" font-size="12" class="hud-mono">
-      <tspan fill="#38BDF8">&gt;</tspan> IDENTITY: <tspan fill="#4ADE80">3X HACKATHON ACHIEVER</tspan> · <tspan fill="#F8FAFC">SJEC B.E. AI &amp; ML (Yr 2)</tspan>
+      <tspan fill="#38BDF8">&gt;</tspan> IDENTITY: <tspan fill="#4ADE80">TECH BUILDER + ENTREPRENEURIAL MINDSET</tspan> · <tspan fill="#F8FAFC">SJEC B.E. AI &amp; ML</tspan>
     </text>
     <text x="16" y="68" fill="#94A3B8" font-size="11" class="hud-mono">
-      <tspan fill="#38BDF8">&gt;</tspan> HONORS: 🏆 HackSummit '25 Winner · 🥉 IIT KGP 3rd · 🌐 Google Ambassador '26
+      <tspan fill="#38BDF8">&gt;</tspan> EXPERIENCE: 3× Internships (Software · Cybersecurity · Startup Incubator) · 3× Hackathons
     </text>
   </g>
 
@@ -118,7 +112,7 @@
     
     <!-- Coordinate / Header -->
     <text x="16" y="24" fill="#64748B" font-size="9.5" class="hud-mono" letter-spacing="1">RADAR // MATRIX</text>
-    <text x="244" y="24" text-anchor="end" fill="#38BDF8" font-size="9" class="hud-mono">AI_CORE</text>
+    <text x="244" y="24" text-anchor="end" fill="#38BDF8" font-size="9" class="hud-mono">INNOVATION</text>
 
     <!-- Radar Rings -->
     <circle cx="130" cy="112" r="58" fill="none" stroke="#1E293B" stroke-width="1" stroke-dasharray="3 4"/>

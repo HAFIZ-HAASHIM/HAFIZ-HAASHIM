@@ -34,18 +34,18 @@
 </h3>
 
 <p style="color: #94A3B8; font-size: 14.5px; line-height: 1.6; margin: 0 0 14px 0;">
-  <b>AI & ML Engineering student</b> (2nd Year B.E. at <i>St Joseph Engineering College</i> · previously CS Diploma at <i>Bearys Institute of Technology</i>). Software builder, <b>3X Hackathon Achiever</b>, and Google Student Ambassador passionate about architecting intelligent systems, computer vision models, and full-stack products.
+  <b>AI & ML Engineering student</b> (2nd Year B.E. at <i>St Joseph Engineering College</i> · previously CS Diploma at <i>Bearys Institute of Technology</i>). Technical builder with an <b>entrepreneurial mindset</b>, combining artificial intelligence, computer vision, full-stack development, and product engineering to turn real problems into scalable software products.
 </p>
 
 <p style="color: #CBD5E1; font-size: 13.5px; line-height: 1.6; margin: 0 0 16px 0;">
-  🔭 <b>Core Disciplines:</b> Agentic AI · Computer Vision · Machine Learning · Full-Stack Systems · Robotics<br/>
+  🔭 <b>Core Focus:</b> AI & ML · Computer Vision · Full-Stack Architecture · Product Engineering<br/>
   ⚡ <b>Core Loop:</b> BUILD ➔ EXPERIMENT ➔ COMPETE ➔ LEARN ➔ SHIP
 </p>
 
 <div>
-  <img src="https://img.shields.io/badge/Identity-AI_%2F_ML_Builder-0F172A?style=flat-square&color=2563EB" alt="Identity" />
+  <img src="https://img.shields.io/badge/Identity-Tech_Builder_%2B_Entrepreneurial_Mindset-0F172A?style=flat-square&color=2563EB" alt="Identity" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Hackathons-3X_Achiever-0F172A?style=flat-square&color=38BDF8" alt="Hackathons" />
+  <img src="https://img.shields.io/badge/Hackathons-3X_Winner-0F172A?style=flat-square&color=38BDF8" alt="Hackathons" />
   &nbsp;
   <img src="https://img.shields.io/badge/Ambassador-Google_GSA_2026-0F172A?style=flat-square&color=34D399" alt="Google Ambassador" />
 </div>
@@ -59,6 +59,44 @@
 </table>
 
 </div>
+
+<br/>
+
+<!-- ==================== INDUSTRY EXPERIENCE / INTERNSHIPS ==================== -->
+### 💼 Industry & Startup Experience
+
+<table width="100%" style="border-collapse: separate; border-spacing: 10px 0; border: none;">
+<tr>
+
+<td width="33.3%" valign="top" style="background-color: #0B1220; border: 1px solid #1E293B; border-radius: 10px; padding: 16px;">
+  <div style="color: #38BDF8; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 4px;">Software Engineering</div>
+  <div style="font-size: 14.5px; font-weight: bold; color: #F8FAFC; margin-bottom: 4px;">Software Developer Intern</div>
+  <div style="color: #64748B; font-size: 12px; margin-bottom: 8px;">GD Edu Tech Pvt. Ltd.</div>
+  <p style="color: #94A3B8; font-size: 12.5px; line-height: 1.5; margin: 0;">
+    Contributed to full-stack feature development, modular web applications, and backend logic.
+  </p>
+</td>
+
+<td width="33.3%" valign="top" style="background-color: #0B1220; border: 1px solid #1E293B; border-radius: 10px; padding: 16px;">
+  <div style="color: #38BDF8; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 4px;">Security Engineering</div>
+  <div style="font-size: 14.5px; font-weight: bold; color: #F8FAFC; margin-bottom: 4px;">Cybersecurity Intern</div>
+  <div style="color: #64748B; font-size: 12px; margin-bottom: 8px;">Teknowgrade Pvt. Ltd.</div>
+  <p style="color: #94A3B8; font-size: 12.5px; line-height: 1.5; margin: 0;">
+    Analyzed threat models, application vulnerabilities, and implemented secure engineering workflows.
+  </p>
+</td>
+
+<td width="33.3%" valign="top" style="background-color: #0B1220; border: 1px solid #1E293B; border-radius: 10px; padding: 16px;">
+  <div style="color: #38BDF8; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 4px;">Startups &amp; Incubation</div>
+  <div style="font-size: 14.5px; font-weight: bold; color: #F8FAFC; margin-bottom: 4px;">Startup &amp; Incubation Intern</div>
+  <div style="color: #64748B; font-size: 12px; margin-bottom: 8px;">Yenepoya Technology Incubator</div>
+  <p style="color: #94A3B8; font-size: 12.5px; line-height: 1.5; margin: 0;">
+    Gained hands-on exposure to early-stage venture building, product-market validation, and startup operations.
+  </p>
+</td>
+
+</tr>
+</table>
 
 <br/>
 
@@ -122,6 +160,20 @@
 
 <tr style="background-color: #0B1220; border-bottom: 1px solid #1E293B;">
   <td style="padding: 12px 14px;">
+    <b><a href="https://github.com/HAFIZ-HAASHIM" style="color: #60A5FA; text-decoration: none;">🎓 Acadex</a></b>
+    <br/>
+    <sub style="color: #64748B;">⚡ Evolved from School Lane</sub>
+  </td>
+  <td style="padding: 12px 14px; color: #94A3B8; font-size: 13.5px;">
+    Modernized, full-modular education ERP and academic workflow resolution platform streamlining institutional administration, student tracking, and operations.
+  </td>
+  <td align="center" style="padding: 12px 14px; color: #CBD5E1; font-size: 12px;">
+    <code>React</code> · <code>Node.js</code> · <code>Vite</code>
+  </td>
+</tr>
+
+<tr style="background-color: #080E1A; border-bottom: 1px solid #1E293B;">
+  <td style="padding: 12px 14px;">
     <b><a href="https://github.com/HAFIZ-HAASHIM/GraamSehat" style="color: #60A5FA; text-decoration: none;">💖 GraamSehat</a></b>
   </td>
   <td style="padding: 12px 14px; color: #94A3B8; font-size: 13.5px;">
@@ -129,18 +181,6 @@
   </td>
   <td align="center" style="padding: 12px 14px; color: #CBD5E1; font-size: 12px;">
     <code>JavaScript</code> · <code>HealthTech</code>
-  </td>
-</tr>
-
-<tr style="background-color: #080E1A; border-bottom: 1px solid #1E293B;">
-  <td style="padding: 12px 14px;">
-    <b><a href="https://github.com/HAFIZ-HAASHIM" style="color: #60A5FA; text-decoration: none;">🎓 Acadex / Rezolvia</a></b>
-  </td>
-  <td style="padding: 12px 14px; color: #94A3B8; font-size: 13.5px;">
-    Intelligent educational workflow and automated grievance resolution engine streamlining academic operations and student feedback cycles.
-  </td>
-  <td align="center" style="padding: 12px 14px; color: #CBD5E1; font-size: 12px;">
-    <code>React</code> · <code>Node.js</code> · <code>AI</code>
   </td>
 </tr>
 
@@ -169,11 +209,12 @@
 
 <td width="33.3%" valign="top" style="background-color: #0B1220; border: 1px solid #1E293B; border-radius: 10px; padding: 16px;">
   <div style="font-size: 14.5px; font-weight: bold; color: #F8FAFC; margin-bottom: 6px;">
-    🏆 Hackathon Honors
+    🏆 3X Hackathon Winner
   </div>
   <p style="color: #94A3B8; font-size: 12.5px; line-height: 1.5; margin: 0;">
     • <b>Winner (1st)</b> — HackSummit 2025 (PACE · ₹10k)<br/>
     • <b>3rd Place</b> — East India Blockchain Summit 2.0 (IIT Kharagpur · ₹50k)<br/>
+    • <b>Awardee</b> — Code4Change (Project Sankalp · Yenepoya)<br/>
     • <b>Top 10 Finalist</b> — Medithon 4.0
   </p>
 </td>
@@ -341,24 +382,17 @@
 <hr style="border: 0; height: 1px; background: #1E293B; margin: 24px 0;" />
 
 <p style="color: #64748B; font-size: 13px; margin-bottom: 8px;">
-  <i>Engineering with curiosity · Building with intent · Shipping with speed</i>
+  <i>Building technology · Exploring ventures · Shipping real products</i>
 </p>
 
-<!-- ==================== SOCIAL / CONTACT BAR ==================== -->
-<a href="https://github.com/HAFIZ-HAASHIM">
-  <img src="https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/muhammad-haashim-49051828b">
-  <img src="https://img.shields.io/badge/LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://www.instagram.com/haashim.dev/">
-  <img src="https://img.shields.io/badge/INSTAGRAM-0B1220?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
-</a>
-&nbsp;
-<a href="mailto:haashimmuhammad7@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-0B1220?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
-</a>
+<p style="font-size: 13px;">
+  <a href="https://github.com/HAFIZ-HAASHIM" style="color: #94A3B8; text-decoration: none;">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-haashim-49051828b" style="color: #94A3B8; text-decoration: none;">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/haashim.dev/" style="color: #94A3B8; text-decoration: none;">Instagram</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:haashimmuhammad7@gmail.com" style="color: #94A3B8; text-decoration: none;">Email</a>
+</p>
 
 </div>
