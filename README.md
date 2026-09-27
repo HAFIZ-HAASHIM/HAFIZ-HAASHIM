@@ -547,18 +547,6 @@
 
 <br/>
 
-<!-- ROW 3: PRODUCTIVITY & ACTIVITY DETAILS -->
-<table width="100%" style="border-collapse: separate; border-spacing: 12px 0; border: none;">
-<tr>
-<td width="50%" align="center" valign="top" style="border: none; padding: 0;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HAFIZ-HAASHIM&theme=github_dark" width="100%" alt="Productive Time Breakdown" />
-</td>
-<td width="50%" align="center" valign="top" style="border: none; padding: 0;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HAFIZ-HAASHIM&theme=github_dark" width="100%" alt="Profile Activity Details" />
-</td>
-</tr>
-</table>
-
 </div>
 
 <br/>
