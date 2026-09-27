@@ -62,37 +62,79 @@
 
 <br/>
 
-<!-- ==================== INDUSTRY EXPERIENCE / INTERNSHIPS ==================== -->
+<!-- ==================== INDUSTRY & STARTUP EXPERIENCE ==================== -->
 ### 💼 Industry & Startup Experience
 
-<table width="100%" style="border-collapse: separate; border-spacing: 10px 0; border: none;">
+<table width="100%" style="border-collapse: separate; border-spacing: 12px; border: none; background: transparent;">
 <tr>
 
-<td width="33.3%" valign="top" style="background-color: #0B1220; border: 1px solid #1E293B; border-radius: 10px; padding: 16px;">
-  <div style="color: #38BDF8; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 4px;">Software Engineering</div>
-  <div style="font-size: 14.5px; font-weight: bold; color: #F8FAFC; margin-bottom: 4px;">Software Developer Intern</div>
-  <div style="color: #64748B; font-size: 12px; margin-bottom: 8px;">GD Edu Tech Pvt. Ltd.</div>
-  <p style="color: #94A3B8; font-size: 12.5px; line-height: 1.5; margin: 0;">
-    Contributed to full-stack feature development, modular web applications, and backend logic.
+<!-- EXP CARD 1: Software Developer -->
+<td width="33.3%" valign="top" style="background-color: #0B1220; border: 1px solid #1E293B; border-radius: 12px; padding: 20px;">
+  <div style="margin-bottom: 10px;">
+    <img src="https://img.shields.io/badge/Software_Engineering-1E293B?style=flat-square&color=2563EB" alt="Software Engineering" />
+  </div>
+  <div style="font-size: 15.5px; font-weight: 700; color: #F8FAFC; margin-bottom: 4px;">
+    Software Developer Intern
+  </div>
+  <div style="color: #38BDF8; font-size: 12.5px; font-weight: 600; margin-bottom: 12px;">
+    GD Edu Tech Pvt. Ltd.
+  </div>
+  <p style="color: #94A3B8; font-size: 13px; line-height: 1.55; margin: 0 0 14px 0;">
+    Contributed to full-stack application development, building modular UI components, integrating backend REST APIs, and optimizing client-side performance.
   </p>
+  <div>
+    <img src="https://img.shields.io/badge/Full--Stack-0F172A?style=flat-square&logo=react&logoColor=61DAFB" alt="Full-Stack" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/REST_APIs-0F172A?style=flat-square&color=38BDF8" alt="APIs" />
+  </div>
 </td>
 
-<td width="33.3%" valign="top" style="background-color: #0B1220; border: 1px solid #1E293B; border-radius: 10px; padding: 16px;">
-  <div style="color: #38BDF8; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 4px;">Security Engineering</div>
-  <div style="font-size: 14.5px; font-weight: bold; color: #F8FAFC; margin-bottom: 4px;">Cybersecurity Intern</div>
-  <div style="color: #64748B; font-size: 12px; margin-bottom: 8px;">Teknowgrade Pvt. Ltd.</div>
-  <p style="color: #94A3B8; font-size: 12.5px; line-height: 1.5; margin: 0;">
-    Analyzed threat models, application vulnerabilities, and implemented secure engineering workflows.
+<!-- EXP CARD 2: Cybersecurity -->
+<td width="33.3%" valign="top" style="background-color: #0B1220; border: 1px solid #1E293B; border-radius: 12px; padding: 20px;">
+  <div style="margin-bottom: 10px;">
+    <img src="https://img.shields.io/badge/Security_Engineering-1E293B?style=flat-square&color=0284C7" alt="Security Engineering" />
+  </div>
+  <div style="font-size: 15.5px; font-weight: 700; color: #F8FAFC; margin-bottom: 4px;">
+    Cybersecurity Intern
+  </div>
+  <div style="color: #38BDF8; font-size: 12.5px; font-weight: 600; margin-bottom: 12px;">
+    Teknowgrade Pvt. Ltd.
+  </div>
+  <p style="color: #94A3B8; font-size: 13px; line-height: 1.55; margin: 0 0 14px 0;">
+    Analyzed threat models, assessed system and web application vulnerabilities, and gained practical experience in security audits and defensive mechanisms.
   </p>
+  <div>
+    <img src="https://img.shields.io/badge/Cyber_Security-0F172A?style=flat-square&color=38BDF8" alt="Security" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Threat_Analysis-0F172A?style=flat-square&color=818CF8" alt="Threat Analysis" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Audits-0F172A?style=flat-square&color=64748B" alt="Audits" />
+  </div>
 </td>
 
-<td width="33.3%" valign="top" style="background-color: #0B1220; border: 1px solid #1E293B; border-radius: 10px; padding: 16px;">
-  <div style="color: #38BDF8; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 4px;">Startups &amp; Incubation</div>
-  <div style="font-size: 14.5px; font-weight: bold; color: #F8FAFC; margin-bottom: 4px;">Startup &amp; Incubation Intern</div>
-  <div style="color: #64748B; font-size: 12px; margin-bottom: 8px;">Yenepoya Technology Incubator</div>
-  <p style="color: #94A3B8; font-size: 12.5px; line-height: 1.5; margin: 0;">
-    Gained hands-on exposure to early-stage venture building, product-market validation, and startup operations.
+<!-- EXP CARD 3: Startup & Incubation -->
+<td width="33.3%" valign="top" style="background-color: #0B1220; border: 1px solid #1E293B; border-radius: 12px; padding: 20px;">
+  <div style="margin-bottom: 10px;">
+    <img src="https://img.shields.io/badge/Venture_Incubation-1E293B?style=flat-square&color=10B981" alt="Venture Incubation" />
+  </div>
+  <div style="font-size: 15.5px; font-weight: 700; color: #F8FAFC; margin-bottom: 4px;">
+    Startup &amp; Incubation Intern
+  </div>
+  <div style="color: #38BDF8; font-size: 12.5px; font-weight: 600; margin-bottom: 12px;">
+    Yenepoya Technology Incubator
+  </div>
+  <p style="color: #94A3B8; font-size: 13px; line-height: 1.55; margin: 0 0 14px 0;">
+    Immersed in early-stage venture building, startup product-market validation, innovation workshops, and entrepreneurial growth strategy.
   </p>
+  <div>
+    <img src="https://img.shields.io/badge/Startups-0F172A?style=flat-square&color=10B981" alt="Startups" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Product_Strategy-0F172A?style=flat-square&color=34D399" alt="Product Strategy" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Ventures-0F172A?style=flat-square&color=38BDF8" alt="Ventures" />
+  </div>
 </td>
 
 </tr>
