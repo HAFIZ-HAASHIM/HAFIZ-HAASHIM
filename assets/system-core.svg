@@ -72,11 +72,11 @@
   <!-- Module 1: AI & Vision -->
   <g transform="translate(32, 54)">
     <rect width="210" height="96" rx="8" fill="url(#cardGrad)" stroke="#1E293B" stroke-width="1"/>
-    <text x="14" y="24" fill="#94A3B8" font-size="9.5" class="hud-mono" letter-spacing="1.5">MODULE 01 // NEURAL</text>
+    <text x="14" y="24" fill="#94A3B8" font-size="9.5" class="hud-mono" letter-spacing="1.5">MODULE 01 // VISION</text>
     <text x="14" y="46" fill="#F8FAFC" font-size="14" class="hud-title">Computer Vision &amp; ML</text>
-    <text x="14" y="66" fill="#64748B" font-size="11" class="hud-mono">CrowdSafe · Density AI</text>
+    <text x="14" y="66" fill="#64748B" font-size="11" class="hud-mono">HemaScan · Roboflow</text>
     <rect x="14" y="78" width="182" height="4" rx="2" fill="#0F172A"/>
-    <rect x="14" y="78" width="158" height="4" rx="2" fill="url(#cyanGlow)"/>
+    <rect x="14" y="78" width="168" height="4" rx="2" fill="url(#cyanGlow)"/>
   </g>
 
   <!-- Module 2: Agentic Systems -->
@@ -84,9 +84,9 @@
     <rect width="210" height="96" rx="8" fill="url(#cardGrad)" stroke="#1E293B" stroke-width="1"/>
     <text x="14" y="24" fill="#94A3B8" font-size="9.5" class="hud-mono" letter-spacing="1.5">MODULE 02 // AGENTS</text>
     <text x="14" y="46" fill="#F8FAFC" font-size="14" class="hud-title">Autonomous Agents</text>
-    <text x="14" y="66" fill="#64748B" font-size="11" class="hud-mono">Project-Kisan · Decision</text>
+    <text x="14" y="66" fill="#64748B" font-size="11" class="hud-mono">Project-Kisan · Vertex AI</text>
     <rect x="14" y="78" width="182" height="4" rx="2" fill="#0F172A"/>
-    <rect x="14" y="78" width="170" height="4" rx="2" fill="url(#cyanGlow)"/>
+    <rect x="14" y="78" width="174" height="4" rx="2" fill="url(#cyanGlow)"/>
   </g>
 
   <!-- Module 3: Full-Stack Product -->
@@ -94,21 +94,21 @@
     <rect width="210" height="96" rx="8" fill="url(#cardGrad)" stroke="#1E293B" stroke-width="1"/>
     <text x="14" y="24" fill="#94A3B8" font-size="9.5" class="hud-mono" letter-spacing="1.5">MODULE 03 // FULLSTACK</text>
     <text x="14" y="46" fill="#F8FAFC" font-size="14" class="hud-title">Next.js &amp; Architecture</text>
-    <text x="14" y="66" fill="#64748B" font-size="11" class="hud-mono">HarvestIQ · ThermoShift</text>
+    <text x="14" y="66" fill="#64748B" font-size="11" class="hud-mono">BlueGuard · GraamSehat</text>
     <rect x="14" y="78" width="182" height="4" rx="2" fill="#0F172A"/>
-    <rect x="14" y="78" width="164" height="4" rx="2" fill="url(#cyanGlow)"/>
+    <rect x="14" y="78" width="162" height="4" rx="2" fill="url(#cyanGlow)"/>
   </g>
 
   <!-- Bottom Data Stream Console -->
   <g transform="translate(32, 164)">
     <rect width="654" height="92" rx="8" fill="#080D18" stroke="#1E293B" stroke-width="1"/>
-    <text x="16" y="24" fill="#38BDF8" font-size="10" class="hud-mono" letter-spacing="1.5">EXECUTION LOG &amp; REAL-TIME METRICS</text>
+    <text x="16" y="24" fill="#38BDF8" font-size="10" class="hud-mono" letter-spacing="1.5">CORE TELEMETRY // CREDENTIALS &amp; RECOGNITIONS</text>
     
     <text x="16" y="48" fill="#E2E8F0" font-size="12" class="hud-mono">
-      <tspan fill="#38BDF8">&gt;</tspan> AGENT_STATE: <tspan fill="#4ADE80">OPTIMIZED</tspan> · CGPA: <tspan fill="#F8FAFC">9.89 (Topper)</tspan> · HACKATHONS: <tspan fill="#F8FAFC">ACTIVE</tspan>
+      <tspan fill="#38BDF8">&gt;</tspan> IDENTITY: <tspan fill="#4ADE80">3X HACKATHON ACHIEVER</tspan> · <tspan fill="#F8FAFC">SJEC B.E. AI &amp; ML (Yr 2)</tspan>
     </text>
     <text x="16" y="68" fill="#94A3B8" font-size="11" class="hud-mono">
-      <tspan fill="#38BDF8">&gt;</tspan> PIPELINE: AgriTech (HarvestIQ) · SafeCrowd Vision · ThermoShift Telemetry
+      <tspan fill="#38BDF8">&gt;</tspan> HONORS: 🏆 HackSummit '25 Winner · 🥉 IIT KGP 3rd · 🌐 Google Ambassador '26
     </text>
   </g>
 

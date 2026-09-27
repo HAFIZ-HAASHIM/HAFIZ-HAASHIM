@@ -34,18 +34,20 @@
 </h3>
 
 <p style="color: #94A3B8; font-size: 14.5px; line-height: 1.6; margin: 0 0 14px 0;">
-  <b>AI & ML Engineering student</b> and software builder passionate about developing intelligent systems, robust full-stack architectures, and computer vision applications that solve real-world problems.
+  <b>AI & ML Engineering student</b> (2nd Year B.E. at <i>St Joseph Engineering College</i> · previously CS Diploma at <i>Bearys Institute of Technology</i>). Software builder, <b>3X Hackathon Achiever</b>, and Google Student Ambassador passionate about architecting intelligent systems, computer vision models, and full-stack products.
 </p>
 
 <p style="color: #CBD5E1; font-size: 13.5px; line-height: 1.6; margin: 0 0 16px 0;">
-  🔭 <b>Core Focus:</b> Agentic AI · Computer Vision · Machine Learning · Product Engineering<br/>
-  ⚡ <b>Engineering Philosophy:</b> First-principles thinking, clean architecture, and rapid shipping
+  🔭 <b>Core Disciplines:</b> Agentic AI · Computer Vision · Machine Learning · Full-Stack Systems · Robotics<br/>
+  ⚡ <b>Core Loop:</b> BUILD ➔ EXPERIMENT ➔ COMPETE ➔ LEARN ➔ SHIP
 </p>
 
 <div>
-  <img src="https://img.shields.io/badge/Status-Building_%26_Shipping-0F172A?style=flat-square&color=2563EB" alt="Status" />
+  <img src="https://img.shields.io/badge/Identity-AI_%2F_ML_Builder-0F172A?style=flat-square&color=2563EB" alt="Identity" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Domain-AI_%2F_ML_%26_Full--Stack-0F172A?style=flat-square&color=38BDF8" alt="Domain" />
+  <img src="https://img.shields.io/badge/Hackathons-3X_Achiever-0F172A?style=flat-square&color=38BDF8" alt="Hackathons" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Ambassador-Google_GSA_2026-0F172A?style=flat-square&color=34D399" alt="Google Ambassador" />
 </div>
 
 </td>
@@ -61,7 +63,7 @@
 <br/>
 
 <!-- ==================== FUTURISTIC TELEMETRY HUD ==================== -->
-### ⚡ Core Architecture & Telemetry
+### ⚡ Autonomous Telemetry & Core Modules
 
 <p align="center">
   <img src="assets/system-core.svg" width="100%" alt="System Architecture & Telemetry Core" style="border-radius: 10px;" />
@@ -70,7 +72,7 @@
 <br/>
 
 <!-- ==================== FEATURED PROJECTS ==================== -->
-### 🚀 Featured Engineering Projects
+### 🚀 Selected Engineering Projects
 
 <table width="100%" style="border-collapse: collapse; border: 1px solid #1E293B;">
 <thead>
@@ -87,70 +89,70 @@
     <b><a href="https://github.com/HAFIZ-HAASHIM/project-kisan" style="color: #60A5FA; text-decoration: none;">🌾 Project-Kisan</a></b>
   </td>
   <td style="padding: 12px 14px; color: #94A3B8; font-size: 13.5px;">
-    Autonomous agentic AI system for context-aware agricultural guidance and crop decision support. Built for <b>Google Agentic AI Day</b>.
+    Autonomous multi-agent system delivering context-aware agricultural intelligence and crop decision guidance. Built for <b>Google Agentic AI Day</b>.
   </td>
   <td align="center" style="padding: 12px 14px; color: #CBD5E1; font-size: 12px;">
-    <code>TypeScript</code> · <code>AI Agents</code>
+    <code>TypeScript</code> · <code>Agentic AI</code>
   </td>
 </tr>
 
 <tr style="background-color: #0B1220; border-bottom: 1px solid #1E293B;">
   <td style="padding: 12px 14px;">
-    <b><a href="https://github.com/HAFIZ-HAASHIM/HarvestIQ" style="color: #60A5FA; text-decoration: none;">🌱 HarvestIQ</a></b>
+    <b><a href="https://github.com/HAFIZ-HAASHIM" style="color: #60A5FA; text-decoration: none;">🩸 HemaScan</a></b>
   </td>
   <td style="padding: 12px 14px; color: #94A3B8; font-size: 13.5px;">
-    AI-driven agri-fintech platform analyzing mandi price trends to generate short-term price forecasts, sell/wait recommendations, and weather risk alerts.
-  </td>
-  <td align="center" style="padding: 12px 14px; color: #CBD5E1; font-size: 12px;">
-    <code>JavaScript</code> · <code>ML Models</code>
-  </td>
-</tr>
-
-<tr style="background-color: #080E1A; border-bottom: 1px solid #1E293B;">
-  <td style="padding: 12px 14px;">
-    <b><a href="https://github.com/HAFIZ-HAASHIM/crowdsafe-AI" style="color: #60A5FA; text-decoration: none;">🛡️ CrowdSafe AI</a></b>
-  </td>
-  <td style="padding: 12px 14px; color: #94A3B8; font-size: 13.5px;">
-    Real-time crowd density monitoring and stampede prevention system using computer vision to detect risk thresholds in public venues early.
+    AI-powered hematology &amp; medical computer vision diagnostics engine analyzing blood cell microscopic imagery for rapid anomaly detection.
   </td>
   <td align="center" style="padding: 12px 14px; color: #CBD5E1; font-size: 12px;">
     <code>Python</code> · <code>Computer Vision</code>
   </td>
 </tr>
 
-<tr style="background-color: #0B1220; border-bottom: 1px solid #1E293B;">
+<tr style="background-color: #080E1A; border-bottom: 1px solid #1E293B;">
   <td style="padding: 12px 14px;">
-    <b><a href="https://github.com/HAFIZ-HAASHIM/thermoshift" style="color: #60A5FA; text-decoration: none;">🌡️ ThermoShift</a></b>
+    <b><a href="https://github.com/HAFIZ-HAASHIM/blueGuard-AI" style="color: #60A5FA; text-decoration: none;">🔵 BlueGuard AI</a></b>
   </td>
   <td style="padding: 12px 14px; color: #94A3B8; font-size: 13.5px;">
-    Intelligent heat-aware workforce scheduling system utilizing real-time environmental telemetry to mitigate heat strain risks for field workers.
+    Digital threat monitoring platform delivering automated anomaly analysis and proactive security telemetry for modern web architectures.
   </td>
   <td align="center" style="padding: 12px 14px; color: #CBD5E1; font-size: 12px;">
-    <code>TypeScript</code> · <code>Decision AI</code>
+    <code>TypeScript</code> · <code>Cyber AI</code>
   </td>
 </tr>
 
-<tr style="background-color: #080E1A; border-bottom: 1px solid #1E293B;">
+<tr style="background-color: #0B1220; border-bottom: 1px solid #1E293B;">
   <td style="padding: 12px 14px;">
     <b><a href="https://github.com/HAFIZ-HAASHIM/GraamSehat" style="color: #60A5FA; text-decoration: none;">💖 GraamSehat</a></b>
   </td>
   <td style="padding: 12px 14px; color: #94A3B8; font-size: 13.5px;">
-    Decentralized rural healthcare and telemedicine suite built to bridge healthcare delivery gaps in underserved communities.
+    Decentralized rural digital healthcare &amp; telemedicine ecosystem engineered to bridge healthcare delivery gaps in underserved communities.
   </td>
   <td align="center" style="padding: 12px 14px; color: #CBD5E1; font-size: 12px;">
     <code>JavaScript</code> · <code>HealthTech</code>
   </td>
 </tr>
 
-<tr style="background-color: #0B1220;">
+<tr style="background-color: #080E1A; border-bottom: 1px solid #1E293B;">
   <td style="padding: 12px 14px;">
-    <b><a href="https://github.com/HAFIZ-HAASHIM/blueGuard-AI" style="color: #60A5FA; text-decoration: none;">🔵 BlueGuard AI</a></b>
+    <b><a href="https://github.com/HAFIZ-HAASHIM" style="color: #60A5FA; text-decoration: none;">🎓 Acadex / Rezolvia</a></b>
   </td>
   <td style="padding: 12px 14px; color: #94A3B8; font-size: 13.5px;">
-    Digital threat monitoring platform delivering automated anomaly analysis and proactive security intelligence for modern web architectures.
+    Intelligent educational workflow and automated grievance resolution engine streamlining academic operations and student feedback cycles.
   </td>
   <td align="center" style="padding: 12px 14px; color: #CBD5E1; font-size: 12px;">
-    <code>TypeScript</code> · <code>Cyber AI</code>
+    <code>React</code> · <code>Node.js</code> · <code>AI</code>
+  </td>
+</tr>
+
+<tr style="background-color: #0B1220;">
+  <td style="padding: 12px 14px;">
+    <b><a href="https://github.com/HAFIZ-HAASHIM" style="color: #60A5FA; text-decoration: none;">🤖 Autonomous Robotics</a></b>
+  </td>
+  <td style="padding: 12px 14px; color: #94A3B8; font-size: 13.5px;">
+    Engineered sensor-driven autonomous line-following and maze-solving robotic vehicles with embedded control algorithms and real-time feedback loops.
+  </td>
+  <td align="center" style="padding: 12px 14px; color: #CBD5E1; font-size: 12px;">
+    <code>C++</code> · <code>Robotics</code> · <code>Arduino</code>
   </td>
 </tr>
 
@@ -159,36 +161,41 @@
 
 <br/>
 
-<!-- ==================== ACHIEVEMENTS & CREDIBILITY ==================== -->
-### 🏆 Achievements & Milestones
+<!-- ==================== HACKATHONS & ACHIEVEMENTS ==================== -->
+### 🏆 Hackathons & Key Milestones
 
 <table width="100%" style="border-collapse: separate; border-spacing: 10px 0; border: none;">
 <tr>
 
 <td width="33.3%" valign="top" style="background-color: #0B1220; border: 1px solid #1E293B; border-radius: 10px; padding: 16px;">
-  <div style="font-size: 15px; font-weight: bold; color: #F8FAFC; margin-bottom: 6px;">
-    🎓 Academic Excellence
+  <div style="font-size: 14.5px; font-weight: bold; color: #F8FAFC; margin-bottom: 6px;">
+    🏆 Hackathon Honors
   </div>
-  <p style="color: #94A3B8; font-size: 13px; line-height: 1.5; margin: 0;">
-    Earned a <b>9.89 CGPA</b> in Computer Science &amp; Engineering at Bearys Institute of Technology with recognition as <b>Academic Topper</b>.
+  <p style="color: #94A3B8; font-size: 12.5px; line-height: 1.5; margin: 0;">
+    • <b>Winner (1st)</b> — HackSummit 2025 (PACE · ₹10k)<br/>
+    • <b>3rd Place</b> — East India Blockchain Summit 2.0 (IIT Kharagpur · ₹50k)<br/>
+    • <b>Top 10 Finalist</b> — Medithon 4.0
   </p>
 </td>
 
 <td width="33.3%" valign="top" style="background-color: #0B1220; border: 1px solid #1E293B; border-radius: 10px; padding: 16px;">
-  <div style="font-size: 15px; font-weight: bold; color: #F8FAFC; margin-bottom: 6px;">
-    🤖 Google Agentic AI Day
+  <div style="font-size: 14.5px; font-weight: bold; color: #F8FAFC; margin-bottom: 6px;">
+    🌐 Google Developer Programs
   </div>
-  <p style="color: #94A3B8; font-size: 13px; line-height: 1.5; margin: 0;">
-    Architected and deployed <b>Project-Kisan</b>, an autonomous multi-agent system providing contextual decision intelligence for agriculture.
+  <p style="color: #94A3B8; font-size: 12.5px; line-height: 1.5; margin: 0;">
+    • <b>Google Student Ambassador (GSA) 2026</b><br/>
+    • <b>Google Solution Challenge</b> Participant<br/>
+    • <b>Google Agentic AI Day</b> Project Builder
   </p>
 </td>
 
 <td width="33.3%" valign="top" style="background-color: #0B1220; border: 1px solid #1E293B; border-radius: 10px; padding: 16px;">
-  <div style="font-size: 15px; font-weight: bold; color: #F8FAFC; margin-bottom: 6px;">
-    ⚔️ Hackathon Builder
+  <div style="font-size: 14.5px; font-weight: bold; color: #F8FAFC; margin-bottom: 6px;">
+    🎓 Leadership &amp; Academics
   </div>
-  <p style="color: #94A3B8; font-size: 13px; line-height: 1.5; margin: 0;">
-    Active hackathon competitor specializing in rapid-prototyping high-impact AI/ML, computer vision, and public-safety solutions under tight deadlines.
+  <p style="color: #94A3B8; font-size: 12.5px; line-height: 1.5; margin: 0;">
+    • <b>2× Academic Topper Award</b> (Two consecutive academic years)<br/>
+    • <b>President</b> — D-CODEX Technical Club (Organized technical workshops &amp; hackathons)
   </p>
 </td>
 
@@ -218,6 +225,8 @@
     &nbsp;
     <img src="https://img.shields.io/badge/Java-0B1220?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java"/>
     &nbsp;
+    <img src="https://img.shields.io/badge/PHP-0B1220?style=flat-square&logo=php&logoColor=777BB4" alt="PHP"/>
+    &nbsp;
     <img src="https://img.shields.io/badge/SQL-0B1220?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQL"/>
   </td>
 </tr>
@@ -227,26 +236,30 @@
     AI / ML &amp; Vision
   </td>
   <td width="74%" style="padding: 12px 16px;">
-    <img src="https://img.shields.io/badge/Computer_Vision-0B1220?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="OpenCV"/>
+    <img src="https://img.shields.io/badge/Computer_Vision-0B1220?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="Computer Vision"/>
     &nbsp;
-    <img src="https://img.shields.io/badge/PyTorch-0B1220?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/Scikit--Learn-0B1220?style=flat-square&logo=scikit-learn&logoColor=F7931E" alt="Scikit-Learn"/>
+    <img src="https://img.shields.io/badge/Machine_Learning-0B1220?style=flat-square&logo=scikit-learn&logoColor=F7931E" alt="Machine Learning"/>
     &nbsp;
     <img src="https://img.shields.io/badge/Roboflow-0B1220?style=flat-square&logo=roboflow&logoColor=6706CE" alt="Roboflow"/>
     &nbsp;
-    <img src="https://img.shields.io/badge/Agentic_AI-0B1220?style=flat-square&logo=openai&logoColor=412991" alt="Agentic AI"/>
+    <img src="https://img.shields.io/badge/Vertex_AI_%2F_GCP-0B1220?style=flat-square&logo=googlecloud&logoColor=4285F4" alt="Google Cloud"/>
+    &nbsp;
+    <img src="https://img.shields.io/badge/Generative_AI-0B1220?style=flat-square&logo=openai&logoColor=412991" alt="Generative AI"/>
+    &nbsp;
+    <img src="https://img.shields.io/badge/Agentic_AI-0B1220?style=flat-square&logo=fastapi&logoColor=009688" alt="Agentic AI"/>
   </td>
 </tr>
 
 <tr style="border-bottom: 1px solid #1E293B;">
   <td width="26%" style="padding: 12px 16px; color: #F8FAFC; font-weight: 600;">
-    Full-Stack &amp; Backend
+    Frontend &amp; Full-Stack
   </td>
   <td width="74%" style="padding: 12px 16px;">
     <img src="https://img.shields.io/badge/React-0B1220?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
     &nbsp;
     <img src="https://img.shields.io/badge/Next.js-0B1220?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+    &nbsp;
+    <img src="https://img.shields.io/badge/Vite-0B1220?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite"/>
     &nbsp;
     <img src="https://img.shields.io/badge/Node.js-0B1220?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js"/>
     &nbsp;
@@ -271,7 +284,11 @@
     &nbsp;
     <img src="https://img.shields.io/badge/Vercel-0B1220?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
     &nbsp;
+    <img src="https://img.shields.io/badge/Netlify-0B1220?style=flat-square&logo=netlify&logoColor=00C7B7" alt="Netlify"/>
+    &nbsp;
     <img src="https://img.shields.io/badge/Figma-0B1220?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma"/>
+    &nbsp;
+    <img src="https://img.shields.io/badge/Arduino-0B1220?style=flat-square&logo=arduino&logoColor=00979D" alt="Arduino"/>
   </td>
 </tr>
 
